@@ -1,7 +1,9 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \options openright
 \use_default_options false
@@ -11,16 +13,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding T1
-\font_roman default
-\font_sans default
-\font_typewriter default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -31,15 +33,24 @@
 \use_hyperref false
 \papersize a4paper
 \use_geometry false
-\use_amsmath 2
-\use_esint 1
-\use_mhchem 0
-\use_mathdots 0
+\use_package amsmath 2
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Indice
 \shortcut idx
@@ -105,7 +116,7 @@ La seconda frase dovrebbe iniziare con le parole
 \begin_inset Quotes fld
 \end_inset
 
-Lo scopo della tesi è \SpecialChar \ldots{}
+Lo scopo della tesi è \SpecialChar ldots
 
 \begin_inset Quotes frd
 \end_inset
@@ -133,6 +144,44 @@ La terza frase riassume brevemente l’attività svolta, i risultati ottenuti
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Oggi, a causa dell'inasprirsi sempre maggiore dei rapporti USA-URSS, a causa
+ della generale instabilità internazionale e a causa di diversi fattori
+ non meno importanti, la diplomazia diventa un elemento sempre più rilevante.
+\begin_inset Newline newline
+\end_inset
+
+Quindi si ha la necessità di analizzare l'immagine della diplomazia pubblica
+ e le strategie comunicative adottate, e come queste influenzano tutto il
+ mondo.
+\end_layout
+
+\begin_layout Standard
+Nel corso di questa tesi mi concentrerò in particolare sull'analizzare l'evoluzi
+one e gli elementi caratterizzanti il linguaggio diplomatico statunitense.
+\begin_inset Newline newline
+\end_inset
+
+Mi concentrerò su questa, perché, come vedremo, la diplomazia statunitense
+ è alquanto particolare e influente.
+\begin_inset Newline newline
+\end_inset
+
+Vedremo infatti che il discorso pubblico statunitense è caratterizzato da
+ una serie di elementi tipici della società americana come ad esempio l'utilizzo
+ di frasi fatte volte a catturare l'attenzione del pubblico, argomentazioni
+ e toni moralistici o ancora l'importanza di sostenere il benessere e la
+ prosperità economica.
+ Queste caratteristiche fanno sì che la diplomazia statunitense si pronunci
+ spesso con toni minacciosi e arroganti all'interno dei discorsi.
+ Ma vedremo che nonostante ciò mantiene la sua supremazia.
+\end_layout
+
+\begin_layout Standard
+Vedremo inoltre come l'ideologia statunitense influenzi la diplomazia culturale
+ e la utilizzi a suo vantaggio.
 \end_layout
 
 \end_body
