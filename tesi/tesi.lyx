@@ -1,7 +1,9 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \begin_preamble
 % pacchetti aggiuntivi
@@ -48,16 +50,16 @@
 \language_package babel
 \inputencoding auto
 \fontencoding T1
-\font_roman default
-\font_sans default
-\font_typewriter default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -77,15 +79,24 @@
 \pdf_pdfusetitle true
 \papersize a4paper
 \use_geometry true
-\use_amsmath 2
-\use_esint 1
-\use_mhchem 0
-\use_mathdots 0
+\use_package amsmath 2
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Indice
 \shortcut idx
@@ -137,7 +148,8 @@ Struttura del template
 
 \begin_layout Plain Layout
 Il template è diviso in diversi file.
- L'idea è che ogni parte della tesi ha un file LyX dedicato (
+ L'idea è che ogni parte della tesi ha un file \SpecialChar LyX
+ dedicato (
 \family sans
 introduzione.lyx
 \family default
@@ -145,7 +157,7 @@ introduzione.lyx
 \family sans
 abstract.lyx
 \family default
-, \SpecialChar \ldots{}
+, \SpecialChar ldots
 ) che può essere modificato in modo indipendente.
  
 \family sans
@@ -154,7 +166,7 @@ tesi.lyx
  è un file che serve per organizzare tutte le parti della tesi in un unico
  documento.
  Ogni capitolo ha una sua cartella in modo da tenere meglio organizzate
- le varie risorse esterne che possono essere incluse (immagini, pdf, \SpecialChar \ldots{}
+ le varie risorse esterne che possono essere incluse (immagini, pdf, \SpecialChar ldots
 ).
 \begin_inset Newline newline
 \end_inset
@@ -187,12 +199,12 @@ Documento
 \family default
  
 \family sans
-\SpecialChar \menuseparator
+\SpecialChar menuseparator
  Impostazioni
 \family default
  
 \family sans
-\SpecialChar \menuseparator
+\SpecialChar menuseparator
 
 \family default
  
@@ -309,6 +321,10 @@ restoregeometry
 
 \begin_layout Standard
 \begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -563,7 +579,7 @@ filename "introduzione.lyx"
 \end_layout
 
 \begin_layout Chapter
-Primo capitolo
+Background
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:primo-capitolo"
@@ -584,7 +600,7 @@ filename "capitolo-1/capitolo-1.lyx"
 \end_layout
 
 \begin_layout Chapter
-Secondo capitolo
+Stato dell'Arte
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:secondo-capitolo"
