@@ -74,18 +74,85 @@
 \begin_body
 
 \begin_layout Section
-La Diplomazia
+La diplomazia
 \end_layout
 
 \begin_layout Standard
-DEFINIZIONI
-\begin_inset CommandInset citation
-LatexCommand cite
-key "CaseOfStudy_Summit"
+La diplomazia, secondo il Dizionario enciclopedico italiano, è 
+\begin_inset Quotes fld
+\end_inset
 
+l'arte di trattare, per conto dello Stato, affari di politica internazionale
+\begin_inset Quotes frd
+\end_inset
+
+.
+ Più concretamente, può essere definita come 
+\begin_inset Quotes fld
+\end_inset
+
+l'insieme dei procedimenti attraverso i quali uno Stato mantiene le normali
+ relazioni con altri soggetti di diritto internazionale, al fine di contemperarn
+e gli interessi in contrasto e di favorire la reciproca collaborazione per
+ la soddisfazione di comuni bisogni
+\begin_inset Quotes frd
 \end_inset
 
 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "TreccaniDiplomacyDefinition"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+L'Oxford English Dictionary, invece, definisce la diplomazia come 
+\begin_inset Quotes fld
+\end_inset
+
+la condotta delle relazioni internazionali attraverso negoziati: il metodo
+ grazie al quale tali relazioni vengono equilibrate e condotte da ambasciatori
+ e inviati; il mestiere e l'arte del diplomatico
+\begin_inset Quotes frd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "OxfordDictionaryDiplomacy"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Dalle origini a oggi
+\end_layout
+
+\begin_layout Subsubsection
+L'antico Vicino Oriente
+\end_layout
+
+\begin_layout Standard
+Alcuni recenti studi e traduzioni di scritti e scambi epistolari testimoniano
+ che la pratica diplomatica ha inizio nell'antico Vicino Oriente intorno
+ alla metà del terzo millennio a.C.
+\end_layout
+
+\begin_layout Standard
+L'antico Vicino Oriente copre gli attuali Stati di Cipro, Iran, Iraq, Israele,
+ Giordania, Libano, Russia sud-ovest, Siria, Turchia, Costa Mediterranea
+ ed Egitto.
+ 
+\end_layout
+
+\begin_layout Section
+Il linguaggio
 \end_layout
 
 \end_body
