@@ -412,30 +412,6 @@ filename "sommario.lyx"
 \end_layout
 
 \begin_layout Chapter*
-Abstract
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-thispagestyle{empty}
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset include
-LatexCommand input
-filename "abstract.lyx"
-
-\end_inset
-
-
 \begin_inset Newpage cleardoublepage
 \end_inset
 
