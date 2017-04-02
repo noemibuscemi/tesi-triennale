@@ -370,9 +370,8 @@ Chiar.mo Prof.
 \begin_layout Standard
 \align right
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="2">
+<lyxtabular version="3" rows="3" columns="1">
 <features tabularvalignment="middle">
-<column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -380,15 +379,6 @@ Chiar.mo Prof.
 
 \begin_layout Plain Layout
 Tesi di laurea di:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
 \end_layout
 
 \end_inset
@@ -404,6 +394,8 @@ Noemi BUSCEMI
 
 \end_inset
 </cell>
+</row>
+<row>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
@@ -420,7 +412,7 @@ Matr.
 \end_inset
 
 
-\begin_inset VSpace 4cm
+\begin_inset VSpace 3cm
 \end_inset
 
 
