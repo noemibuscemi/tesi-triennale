@@ -73,7 +73,92 @@
 
 \begin_body
 
+\begin_layout Standard
+In questo primo capitolo analizzeremo le conoscenze preliminari fondamentali
+ al fine di comprendere lo stato dell'arte di cui tratteremo nel capitolo
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "chap:secondo-capitolo"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Nel paragrafo 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:La-diplomazia"
+
+\end_inset
+
+ definiremo il termine diplomazia da un punto di vista teorico, facendo
+ riferimento all'Enciclopedia Treccani e all'Oxford English Dictionary che
+ forniscono due definizioni coerenti e che meglio si adattano ai concetti
+ che tratteremo nel corso di questa tesi.
+ Un breve accenno storico verrà inserito al fine di spiegare la nascita
+ della diplomazia moderna in Europa.
+\begin_inset Newline newline
+\end_inset
+
+Andremo inoltre a definire più nel dettaglio due aspetti della diplomazia
+ con riferimento all'area delle relazioni internazionali.
+\begin_inset Newline newline
+\end_inset
+
+Proseguiremo poi con la diplomazia all'interno dell'Organizzazione delle
+ Nazioni Unite, definendo le differenze tra diplomazia aperta e segreta
+ e relativi casi storici e tra diplomazia bilaterale e multilaterale.
+\end_layout
+
+\begin_layout Standard
+Nel paragrafo 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Il-diplomatico"
+
+\end_inset
+
+ definiremo brevemente la figura del diplomatico da un punto di vista teorico
+ ed etimologico.
+ 
+\end_layout
+
+\begin_layout Standard
+Poiché in un mondo sempre più internazionale e multiculturale, caratterizzato
+ da imponenti fenomeni migratori e da rapidi cambiamenti degli assi economici,
+ vi è la necessità di formare persone capaci di agire e comunicare in modo
+ competente e appropriato non solo nei contesti esistenti, ma anche in possibili
+ scenari futuri, concludiamo questo capitolo con il paragrafo 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Il-linguaggio"
+
+\end_inset
+
+ in cui forniamo il significato del termine 
+\begin_inset Quotes fld
+\end_inset
+
+linguaggio
+\begin_inset Quotes frd
+\end_inset
+
+, facendo anche riferimento a importanti linguisti che si sono occupati
+ dello studio della lingua e considerando aspetti fondamentali quali il
+ linguaggio verbale e non verbale al fine di comprendere quello che è il
+ fulcro della tesi, ovvero il linguaggio diplomatico.
+\end_layout
+
 \begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:La-diplomazia"
+
+\end_inset
+
 La diplomazia
 \end_layout
 
@@ -128,9 +213,32 @@ key "OxfordDictionaryDiplomacy"
 \end_inset
 
 .
-\begin_inset Newline newline
+\end_layout
+
+\begin_layout Standard
+Le origini della diplomazia moderna in Europa vanno rintracciate nelle relazioni
+ tra gli Stati del Nord Italia durante il Basso Medioevo.
+ Milano, Venezia e la Toscana sono state un fiorente centro di relazioni
+ diplomatiche nel XV secolo.
+ Molte usanze diplomatiche tuttora in uso, come la presentazione delle credenzia
+li diplomatiche, si considerano risalenti alle pratiche rinascimentali italiane.
+ Dall'Italia, la pratica diplomatica si è diffusa alle altre regioni europee.
+ La Spagna è stata il primo Stato a inviare un rappresentante permanente,
+ un Ambasciatore, alla Corte d'Inghilterra nel 1487.
+ A partire dal XVI secolo l'invio di agenti diplomatici è diventata prassi
+ tra tutti gli Stati europei e si è successivamente diffusa agli Stati extra-eur
+opei
+\begin_inset CommandInset citation
+LatexCommand cite
+key "HistoryOfDiplomacy"
+
 \end_inset
 
+.
+ 
+\end_layout
+
+\begin_layout Standard
 La diplomazia, nell'area delle relazioni internazionali, è stata suddivisa
  in due tipi: la diplomazia tradizionale e la diplomazia pubblica che spiegherem
 o nella sottosezione successiva.
@@ -192,7 +300,7 @@ key "Traditional&PublicDiplomacy"
 .
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsubsection*
 La diplomazia culturale
 \end_layout
 
@@ -271,6 +379,40 @@ protezione dei diritti fondamentali dell'uomo
 pace e stabilità nel mondo
 \end_layout
 
+\begin_layout Standard
+Nel settore pubblico si distinguono due approcci che conducono alle relazioni
+ regionali e internazionali, quello di 
+\shape italic
+hard power
+\shape default
+ e quello di 
+\shape italic
+soft power
+\shape default
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Lo scienziato Joseph Nye ha definiti il primo come 
+\begin_inset Quotes fld
+\end_inset
+
+l'abilità a persuadere attraverso la cultura, i valori e le idee, in contrapposi
+zione all'hard power che conquista e costringe attraverso la forza militare
+\begin_inset Quotes frd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "CulturalDiplomacySite"
+
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Subsection
 La diplomazia delle Nazioni Unite
 \end_layout
@@ -278,13 +420,37 @@ La diplomazia delle Nazioni Unite
 \begin_layout Standard
 L'Organizzazione delle Nazioni Unite è un'organizzazione intergovernativa
  a carattere internazionale.
- È nata subito dopo la seconda guerra mondiale, nel 1945, andando a sostituire
+ È nata subito dopo la Seconda guerra mondiale, nel 1945, andando a sostituire
  quella che era la vecchia Società delle Nazioni.
  Ad oggi, ne fanno parte 193 Stati del mondo su 196 riconosciuti sovrani.
+ Principi e linee guide sono contenuti nel suo Statuto.
+ 
+\end_layout
+
+\begin_layout Standard
+Per via dei poteri garantitigli dalla legge nel suo Statuto e grazie al
+ suo unico potere internazionale, le Nazioni Unite possono occuparsi di
+ problematiche riguardanti pace e sicurezza, cambiamenti climatici, sviluppo
+ sostenibile, diritti umani, disarmo, terrorismo, emergenze umanitarie,
+ uguaglianza di genere e molto altro.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Grazie al dialogo tra i membri, e grazie alle numerose conferenze, l'Organizzazi
+one delle Nazioni Unite è diventata un meccanismo per i governi per risolvere
+ insieme i problemi
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UNSite"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsubsection
-Diplomazia aperta e diplomazia segreta: alcuni casi
+Diplomazia aperta e diplomazia segreta
 \end_layout
 
 \begin_layout Standard
@@ -337,16 +503,178 @@ dietro le quinte
 
 \begin_layout Standard
 Nonostante si desideri una democrazia aperta e pubblica, c'è ancora bisogno
- di negoziazioni confidenziali.
+ di negoziazioni confidenziali con rappresentanti di governo
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UNDiplomacy"
+
+\end_inset
+
+.
  
 \end_layout
 
+\begin_layout Subsubsection
+Diplomazia bilaterale e multilaterale
+\end_layout
+
+\begin_layout Standard
+Oggi la diplomazia è spesso praticata a livello multilaterale.
+ Questo perchè la tecnologia moderna ha generalizzato gli interessi delle
+ nazioni al punto tale che un'azione bilaterale appare inadeguata.
+ Il bilateralismo era una della caratteristiche della diplomazia tradinzionale,
+ dove due Paesi cercavano di risolvere le controversie sorte tra loro.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UNDiplomacy"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La multilateralità è presente nelle conferenze internazionali a cui i governi
+ sono invitati a mandare i propri delegati.
+ Gli Stati Uniti, ad esempio, hanno partecipato a 53 conferenze tra luglio
+ 1941 e giugno 1945
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UNDiplomacy"
+
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+In assenza di una legislatura mondiale, queste conferenze fornivano un modo
+ potenziale per la formulazione di programmi per un'azione internazionale
+ collettiva.
+ Alcune di esse venivano allestite ad hoc da alcuni Stati membri o da piccoli
+ gruppi di Stati.
+ Si trattava di una pratica generale.
+ Negli ultimi decenni, sono state create alcune organizzazioni internazionali
+ che tengono conferenze permanenti.
+ Una delle più importanti è l'Organizzazione delle Nazioni Unite.
+ Una delle più significative innovazioni nella conduzione di relazioni internazi
+onali è lo sviluppo di una diplomazia collettiva
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UNDiplomacy"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Uno dei suoi sostenitori è un diplomatico britannico, Maurice Hankey, che
+ ritiene che uno dei risultati significativi del condurre la diplomazia
+ attraverso le conferenze sia la conoscenza che gli uomini di Stato acquisiscono
+ l'uno dell'altro, portando ad avere completa franchezza nei dibattiti.
+ 
+\end_layout
+
+\begin_layout Standard
+La diplomazia all'interno delle conferenze è stata praticata sin dall'inizio
+ del XX secolo, anche se prima del 1914 se ne faceva un uso più scarso.
+ Oltre alle conferenze internazionali ufficiali, i capi di Stato in visita
+ erano spesso accompagnati dai propri ministri e queste occasioni venivano
+ sfruttate per intrattenere conversazioni diplomatiche
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UNDiplomacy"
+
+\end_inset
+
+.
+ Negli anni precedenti alla Grande Guerra, il metodo di condurre affari
+ internazionali attraverso conferenze dirette tra i principali ministri
+ interessati era l'eccezione piuttosto che la regola
+\begin_inset CommandInset citation
+LatexCommand cite
+key "hankey1948diplomacy"
+
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Il-diplomatico"
+
+\end_inset
+
+Il diplomatico
+\end_layout
+
+\begin_layout Standard
+Il diplomatico è un funzionario incaricato dallo Stato di condurre relazioni
+ diplomatiche con uno o più Stati od organizzazioni internazionali.
+ 
+\end_layout
+
+\begin_layout Standard
+Il termine 
+\begin_inset Quotes fld
+\end_inset
+
+diplomatico
+\begin_inset Quotes frd
+\end_inset
+
+ deriva dal greco διπλωμάτης (diplōmátēs) con riferimento ai documenti di
+ accreditamento rilasciati dalla propria nazione sovrana 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "anderson2014rise"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Il-linguaggio"
+
+\end_inset
+
 Il linguaggio
 \end_layout
 
 \begin_layout Standard
-Il linguaggio è 
+Poiché in un mondo sempre più internazionale e multiculturale, caratterizzato
+ da imponenti fenomeni migratori e da rapidi cambiamenti degli assi economici,
+ vi è la necessità di formare persone capaci di agire e comunicare in modo
+ competente e appropriato non solo nei contesti esistenti, ma anche in possibili
+ scenari futuri, è bene definire il termine 
+\begin_inset Quotes fld
+\end_inset
+
+linguaggio
+\begin_inset Quotes frd
+\end_inset
+
+ dal punto di vista teorico, fornendo inoltre la descrizione di aspetti
+ quali il linguaggio verbale e non verbale che ci porteranno a comprendere
+ meglio il linguaggio diplomatico, cuore di questa tesi.
+\end_layout
+
+\begin_layout Standard
+Una prima definizione che possiamo fornire di 
+\begin_inset Quotes fld
+\end_inset
+
+linguaggio
+\begin_inset Quotes frd
+\end_inset
+
+ è 
 \begin_inset Quotes fld
 \end_inset
 
@@ -358,7 +686,8 @@ l'abilità di acquisire e di usare complessi sistemi di comunicazione
 \end_layout
 
 \begin_layout Standard
-Il linguista Noam Chomsky definisce il linguaggio 
+Ancora più significativa è la definizione fornita dal linguista statunitense
+ Noam Chomsky il quale definisce il linguaggio 
 \begin_inset Quotes fld
 \end_inset
 
@@ -367,8 +696,181 @@ un insieme (finito o infinito) di frasi, ciascuna finita in lunghezza, e
 \begin_inset Quotes frd
 \end_inset
 
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "chomsky1986knowledge"
+
+\end_inset
+
 .
 \end_layout
 
+\begin_layout Subsubsection*
+Il linguaggio verbale e non verbale
+\end_layout
+
+\begin_layout Standard
+In un mondo sempre più internazionale e multiculturale, caratterizzato da
+ imponenti fenomeni migratori e da rapidi cambiamenti degli assi economici,
+ vi è la necessità di formare persone capaci di agire e comunicare in modo
+ competente e appropriato non solo nei contesti esistenti, ma anche in possibili
+ scenari futuri
+\begin_inset CommandInset citation
+LatexCommand cite
+key "LinguaggiVerbalieNON"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+La comunicazione interpersonale è costituita dall'insieme dei fenomeni che
+ veicolano lo scambio di informazioni tra due o più persone sia attraverso
+ il linguaggio verbale sia quello non verbale.
+\end_layout
+
+\begin_layout Standard
+Definiamo comunicazione verbale il linguaggio che avviene attraverso l'uso
+ del linguaggio, sia scritto che orale, e che dipende da precise regole
+ sintattiche e grammaticali.
+ Parliamo quindi di una serie di aspetti che vanno oltre il mero significato
+ semantico del messaggio e che includono caratteristiche legate alla qualità
+ del messaggio stesso, cioè a come viene espresso, ad esempio con quale
+ tono di voce, con quale formalità, con quale struttura testuale e via dicendo
+\begin_inset CommandInset citation
+LatexCommand cite
+key "LinguaggiVerbalieNON"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Anche questi aspetti vanno ad influire sull'esito della comunicazione perchè
+ ciò che può sembrare naturale ed educato per qualcuno, per altri può apparire
+ inadeguato e condurre così a fraintendimenti e a spiacevoli incidenti comunicat
+ivi
+\begin_inset CommandInset citation
+LatexCommand cite
+key "LinguaggiVerbalieNON"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+La comunicazione non verbale, invece, comprende gli aspetti che non riguardano
+ il significato letterale delle parole componenti il messaggio, ma il linguaggio
+ del corpo
+\begin_inset CommandInset citation
+LatexCommand cite
+key "LinguaggiVerbalieNON"
+
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+Questo tipo di comunicazione viene diviso in quattro componenti:
+\end_layout
+
+\begin_layout Enumerate
+sistema paralinguistico: comprende tutte le componenti vocali non verbali
+ del parlato e le emissioni vocali non verbali
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+tono
+\end_layout
+
+\begin_layout Enumerate
+frequenza
+\end_layout
+
+\begin_layout Enumerate
+ritmo
+\end_layout
+
+\begin_layout Enumerate
+silenzio
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+sistema cinesico: studio del linguaggio del corpo articolato in
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+studio della mimica facciale
+\end_layout
+
+\begin_layout Enumerate
+studio della gestualità
+\end_layout
+
+\begin_layout Enumerate
+studio della postura
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+prossemica: studio dell'uso sociale e comunicativo dell'organizzazione dello
+ spazio inteso come condizione e prodotto dell'azione
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+zona intima
+\end_layout
+
+\begin_layout Enumerate
+zona personale
+\end_layout
+
+\begin_layout Enumerate
+zona sociale
+\end_layout
+
+\begin_layout Enumerate
+zona pubblica
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+aptica: messaggi comunicativi espressi tramite contatto fisico
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+stretta di mano
+\end_layout
+
+\begin_layout Enumerate
+bacio
+\end_layout
+
+\begin_layout Enumerate
+abbraccio
+\end_layout
+
+\begin_layout Enumerate
+pacche
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SocioComunicazione"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \end_body
 \end_document

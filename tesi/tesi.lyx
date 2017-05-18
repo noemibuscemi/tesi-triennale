@@ -445,21 +445,6 @@ LatexCommand tableofcontents
 \end_inset
 
 
-\begin_inset FloatList figure
-
-\end_inset
-
-
-\begin_inset FloatList table
-
-\end_inset
-
-
-\begin_inset FloatList algorithm
-
-\end_inset
-
-
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -586,27 +571,6 @@ name "chap:secondo-capitolo"
 \begin_inset CommandInset include
 LatexCommand input
 filename "capitolo-2/capitolo-2.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-Terzo capitolo
-\begin_inset CommandInset label
-LatexCommand label
-name "chap:terzo-capitolo"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "capitolo-3/capitolo-3.lyx"
 
 \end_inset
 
