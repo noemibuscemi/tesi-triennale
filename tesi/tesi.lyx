@@ -104,7 +104,7 @@
 \end_index
 \leftmargin 4cm
 \topmargin 3cm
-\rightmargin 3cm
+\rightmargin 3.5cm
 \bottommargin 3.5cm
 \secnumdepth 3
 \tocdepth 3
@@ -557,7 +557,7 @@ filename "capitolo-1/capitolo-1.lyx"
 \end_layout
 
 \begin_layout Chapter
-Stato dell'Arte
+Analisi discorsi diplomatici
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:secondo-capitolo"
@@ -619,7 +619,7 @@ filename "conclusioni.lyx"
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "bibliografia"
-options "plain"
+options "bibtotoc,plain"
 
 \end_inset
 
@@ -639,68 +639,7 @@ addcontentsline{toc}{chapter}{Bibliografia}
 
 \end_layout
 
-\begin_layout Chapter
-\start_of_appendix
-Prima appendice
-\begin_inset CommandInset label
-LatexCommand label
-name "app:prima-appendice"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "appendice-a/appendice-a.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-Seconda appendice 
-\begin_inset CommandInset label
-LatexCommand label
-name "app:seconda-appendice"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "appendice-b/appendice-b.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-Terza appendice
-\begin_inset CommandInset label
-LatexCommand label
-name "app:terza-appendice"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "appendice-c/appendice-c.lyx"
-
-\end_inset
-
-
 \begin_inset Newpage cleardoublepage
 \end_inset
 

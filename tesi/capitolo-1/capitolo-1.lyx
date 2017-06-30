@@ -32,7 +32,7 @@
 \spacing single
 \use_hyperref false
 \papersize a4paper
-\use_geometry false
+\use_geometry true
 \use_package amsmath 2
 \use_package amssymb 2
 \use_package cancel 1
@@ -56,6 +56,10 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 4cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -138,7 +142,6 @@ Aspetti ermeneutici (interpretazione)
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 La lingua è molto più di un semplice strumento da usare, applicare o modellare
  da adattare ai significati che si intende comunicare attraverso le parole.
  La lingua è piuttosto ciò che definisce il quadro fondamentale, ciò che
@@ -154,7 +157,6 @@ La lingua è molto più di un semplice strumento da usare, applicare o modellare
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Resta ovviamente comunque vero che la lingua è uno strumento e in quanto
  tale prevede che chi la utilizza sia in grado di farlo in modo appropriato
  e perfino di plasmarla per conseguire i propri scopi.
@@ -170,7 +172,6 @@ Resta ovviamente comunque vero che la lingua è uno strumento e in quanto
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 È proprio per questo motivo che lingue diverse possono trovare significati
  comuni, e grazie a questi punti di incontro creati dalla lingua è possibile
  raggiungere un accordo tra due parti che parlano lingue diverse.
@@ -201,7 +202,6 @@ ne per un greco antico, pericolo ma anche opportunità per un cinese, catastrofe
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Un singolo significato, dunque, non è incorporato in una sola parola; non
  c’è assoluta stabilità in una data lingua; e anche laddove una certa stabilità
  può essere fissata attraverso espressioni professionali, lo sfondo in cui
@@ -214,7 +214,6 @@ Un singolo significato, dunque, non è incorporato in una sola parola; non
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Per ciò che concerne l’ambito della diplomazia, essa è costantemente implicata
  con la questione dell’interpretazione, e quest’ultima è viceversa radicata
  in ogni forma di diplomazia, includendo interpretazione di accordi del
@@ -246,7 +245,6 @@ Aspetti retorici (persuasione)
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 La lingua va ben oltre la propria funzione di esprimere e veicolare significati,
  in quanto è in essa radicata l’intenzione o la volontà di affascinare o
  persuadere il destinatario.
@@ -266,8 +264,7 @@ La lingua va ben oltre la propria funzione di esprimere e veicolare significati,
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
-La retorica è onnicomprensiva quando si tratta di negoziazione: viene prima
+La retorica è onnicomprensiva quando si tratta di negoziati: viene prima
  della negoziazione, esiste durante la negoziazione e segue la negoziazione.
  Negoziazione e diplomazia nel loro complesso dunque non possono non dipendere
  dalla retorica.
@@ -275,7 +272,6 @@ La retorica è onnicomprensiva quando si tratta di negoziazione: viene prima
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Diplomazia significa pertanto anche cercare di persuadere, affascinare,
  portare l’altra parte a raggiungere un accordo.
  Allo stesso modo, non si dà diplomazia senza un tentativo di dimostrare
@@ -312,7 +308,7 @@ Compito della diplomazia è prevenire le guerre, gestire i conflitti di interess
  Tuttavia la diplomazia si basa in realtà sul presupposto che vale sempre
  la pena avviare un dialogo con l’altra parte, considerando questa come
  un partner alla pari con il quale raggiungere un giusto ed equo accordo.
- Nessuna negoziazione, nessuna attività diplomatica può pertanto svilupparsi
+ Nessun negoziato, nessuna attività diplomatica può pertanto svilupparsi
  fino a quando l’altro viene visto come una “non entità”, poiché la diplomazia
  è per la sua stessa natura guidata dal riconoscimento dell’altra parte
  e da una profonda preoccupazione per il senso di equità
@@ -341,7 +337,6 @@ Nascita e sviluppo del linguaggio diplomatico
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Dopo la pace di Vestfalia, nel XVII secolo, il sistema dello Stato moderno
  si sviluppò intorno alla lingua vernacolare, la quale, se fino a quel momento
  era stata elemento fondamentale per costruire l’identità degli uomini e
@@ -352,7 +347,6 @@ Dopo la pace di Vestfalia, nel XVII secolo, il sistema dello Stato moderno
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Se la lingua è in generale intesa come uno strumento di comunicazione, la
  lingua della diplomazia rappresenta un ulteriore perfezionamento di tale
  strumento, in quanto in ambito diplomatico le parole, per quanto innocenti
@@ -363,7 +357,6 @@ Se la lingua è in generale intesa come uno strumento di comunicazione, la
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Le parole, che possono assumere significati diversi per le persone, o anche
  cambiare a seconda del luogo e del tempo considerati, sono portatrici non
  solo di senso ma anche di intenzione.
@@ -373,7 +366,6 @@ Le parole, che possono assumere significati diversi per le persone, o anche
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Alle parole si affianca inoltre la gestualità, il linguaggio corporeo, che
  distingue l’uomo dalle altre creature per il suo modo di comunicare.
  Il volto di una persona spesso comunica ben più delle parole; una non risposta
@@ -411,7 +403,6 @@ Ambiguity.
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Il linguaggio diplomatico è figlio della lingua della comunicazione.
  La sua formalizzazione in particolari schemi, con una determinata cadenza
  e a volte intriso di ripetitività, è stata pensata per oleare i punti di
@@ -423,12 +414,11 @@ Il linguaggio diplomatico è figlio della lingua della comunicazione.
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Il linguaggio diplomatico si caratterizza dunque per una “mixture between
  form and content wrapped in certain ceremony is designed to add weight
  to the message while protecting the messenger”
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Jaber K., “Language and diplomacy”, in Kurbalija J., Slavik H., 
@@ -448,7 +438,6 @@ Language and diplomacy
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Ciò che differenzia il linguaggio diplomatico dalla lingua usata in contesti
  ordinari è l’assenza in esso di elementi culturalmente connotati, in modo
  da oltrepassare i confini del singolo paese e creare un veicolo di scambio
@@ -474,7 +463,6 @@ Ibid
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Nell’era della globalizzazione, inoltre, dove tutto si muove ad estrema
  velocità, i Capi di Stato riconoscono spesso la necessità di non avvalersi
  della figura dell’ambasciatore ma contattare personalmente l’altra parte.
@@ -486,13 +474,16 @@ Nell’era della globalizzazione, inoltre, dove tutto si muove ad estrema
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 L’esempio più antico di linguaggio diplomatico può essere rintracciato nel
  trattato di pace e amicizia concluso nel 2400 a.C., tra il regno di Ebla
  (Siria settentrionale) e quello di Hamazi (nell’area dell’attuale Iran),
  ritrovato negli archivi reali di Ebla e ora conservato nel Museo Archeologico
  di Damasco.
- Nella frase di apertura del trattato si legge “Irkab-Damu, King of Ebla,
+ 
+\begin_inset Newline newline
+\end_inset
+
+Nella frase di apertura del trattato si legge “Irkab-Damu, King of Ebla,
  (is the) brother of Zizi, King of Hamazi; Zizi King of Hamazi, (is the)
  brother of Irkab-Damu, King of Ebla”
 \begin_inset Foot
@@ -501,7 +492,7 @@ status collapsed
 \begin_layout Plain Layout
 
 \shape italic
-Ibidem
+Idem
 \end_layout
 
 \end_inset
@@ -511,7 +502,6 @@ Ibidem
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Il linguaggio della diplomazia non ha sempre avuto successo nei secoli nella
  risoluzione di problemi tra gli stati, né è sempre riuscito a oleare i
  punti di contatto tra popoli.
@@ -526,7 +516,6 @@ li eruditi continuano a parlare di scontro piuttosto che di dialogo tra
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Né tantomeno credi religiosi, né testi sacri, né credenze nella razionalità
  dell'uomo, sembrano cambiare il comportamento dell'uomo, non importa quanto
  sia potente il messaggio.
@@ -554,7 +543,6 @@ Discourse on Civility and Barbarity
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Infatti, coloro i quali parlano di relazioni armoniche o adesione ai principi
  umanitari nella sfera politica vengono denominati 
 \shape italic
@@ -566,10 +554,14 @@ realisti
 \shape default
 .
  Come spiegava Machiavelli 
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-\align block
+\paragraph_spacing single
 
 \size small
 Debbe adunque uno principe non avere altro obietto né altro pensiero, né
@@ -586,11 +578,9 @@ status collapsed
 
 \begin_layout Plain Layout
 \align block
-Machiavelli N., 
-\shape italic
-Il Principe
-\shape default
-, cap.
+
+\size small
+Machiavelli N., Il Principe, cap.
  14, Torino: Einaudi, 1972, p.
  68.
 \end_layout
@@ -598,9 +588,14 @@ Il Principe
 \end_inset
 
 .
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 La potente negazione degli ideali e la ragione dell'uomo per creare un mondo
  migliore possono anche essere attribuiti al potere del linguaggio.
  Tutta la nostra epoca è caratterizzata da incertezza e violenza.
@@ -635,6 +630,7 @@ Legami che stressano
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Questa dialettica tra tradizione e modernità assume tratti più acuti e a
  volte anche violenti in alcune civiltà piuttosto che in altre.
  Ma in ognuna di esse, la violenza fisica e verbale è un dato di fatto.
@@ -660,6 +656,7 @@ Traditions and Values in Politics and Diplomacy
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Laddove il potere rimane la moneta delle relazioni internazionali e laddove,
  riprendendo le parole del filosofo politico britannico Thomas Hobbes (1558-1629
 ), per gran parte dell'umanità la vita rimane vicina a quella di una giungla
@@ -683,6 +680,7 @@ The SAGE Handbook of Diplomacy
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 E ora con un unico gigante super potere che fa sembrare tutte le altre nazioni
  minuscole per confronto, questa necessità è maggiore.
  Infatti sembra che per le potenze di medie o piccole dimensioni la necessità
@@ -707,6 +705,7 @@ The Global Economy in Transition
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Come detto precedentemente, la diplomazia è la gestione delle relazioni
  tra due paesi, l’arte di convincere gli altri a percepire le cose secondo
  un determinato punto di vista, o perlomeno a formulare un pensiero diverso.
@@ -730,6 +729,7 @@ Global Diplomacy.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Il potere della lingua si basa sul fatto che essa contiene delle idee, e
  le idee sono, riprendendo quanto espresso da Platone, più resistenti, più
  permanenti della materia.
@@ -744,6 +744,7 @@ Il potere della lingua si basa sul fatto che essa contiene delle idee, e
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Che si tratti di demagogia o espressione di nobili ideologie, di teorie
  o di credenze religiose, il linguaggio ordinario o quello della diplomazia
  ha un impeto e una forza trainante interiore che è senza tempo
@@ -766,6 +767,8 @@ Diplomazia e comprensione cross-culturale
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Lo scenario globale entro cui operano la politica estera e la diplomazia
  è drasticamente cambiato in primo luogo per l’entrata in scena di molteplici
  entità statali nel processo diplomatico di ogni paese, superando il precedente
@@ -796,11 +799,7 @@ ne” del processo e dei suoi attori.
  sintassi e lo stile tradizionale del linguaggio della diplomazia e usano
  piuttosto un linguaggio meno sottile e più diretto rispetto a quanto si
  era abituati in precedenza.
- 
-\end_layout
-
-\begin_layout Standard
-A differenza dell’epoca classica della diplomazia, il periodo cioè fino
+ A differenza dell’epoca classica della diplomazia, il periodo cioè fino
  alla Seconda Guerra Mondiale e immediatamente dopo, quando il numero delle
  nazioni era circa un quarto rispetto a quello odierno, e la maggior parte
  degli attori erano accomunati da un’educazione e una mentalità pressoché
@@ -816,6 +815,8 @@ A differenza dell’epoca classica della diplomazia, il periodo cioè fino
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Nel linguaggio internazionale, inoltre, emergono questioni economiche, ambiental
 i e tecniche sempre più complesse.
  Spesso singole parole riassumono tali questioni, e frasi come “fair trade”
@@ -829,6 +830,8 @@ i e tecniche sempre più complesse.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Ciò comporta per gli altri Paesi grande prontezza e l’abilità di creare
  combinazioni lessicali parimenti persuasive.
  Non si tratta certo di un compito facile quando gli organi mediatici globali
@@ -838,6 +841,8 @@ Ciò comporta per gli altri Paesi grande prontezza e l’abilità di creare
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Dai giorni di Woodrow Wilson, la nozione di una diplomazia aperta si è dimostrat
 a essere solo una chimera.
  L’apertura è un valore assoluto e desiderabile, paragonabile alla democrazia,
@@ -866,6 +871,8 @@ Language and diplomacy
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 La lingua influenza il dialogo tra paesi anche in un modo completamente
  diverso, ossia producendo nella diplomazia una sorta di infatuazione attraverso
  parole che divengono un sostituto dell’azione.
@@ -895,6 +902,8 @@ Ivi
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Potrebbe essere stata l’influenza della diplomazia classica, che in un certo
  qual modo è ancora praticata dalle potenze occidentali, a precludere un
  ruolo più forte per gli studi cross-culturali in ambito diplomatico.
@@ -910,11 +919,15 @@ Potrebbe essere stata l’influenza della diplomazia classica, che in un certo
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Gli aspetti culturali, dunque, possono avere grandi conseguenze sull’esito
  delle relazioni diplomatiche, quali:
 \end_layout
 
 \begin_layout Itemize
+\paragraph_spacing onehalf
+\noindent
 in alcuni casi, i segnali possono essere troppo sottili da poter essere
  colti dagli interlocutori.
  La diversità delle culture e delle lingue suggerisce pertanto l’adozione
@@ -923,11 +936,15 @@ in alcuni casi, i segnali possono essere troppo sottili da poter essere
 \end_layout
 
 \begin_layout Itemize
+\paragraph_spacing onehalf
+\noindent
 culture diverse possono attribuire significati diversi a un medesimo segnale;
  
 \end_layout
 
 \begin_layout Itemize
+\paragraph_spacing onehalf
+\noindent
 in ambienti diversi, il linguaggio del corpo e perfino il modo di conversare
  sono differenti, e ciò potrebbe rendere la diplomazia classica inadeguata
 \begin_inset Foot
@@ -952,6 +969,7 @@ Uso della lingua in ambito diplomatico
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Parlare di lingua in ambito diplomatico significa dar spazio a varie interpretaz
 ioni, riferite tanto all’orale quanto allo scritto.
  In primo luogo, si parla di lingua, e dunque di codice linguistico usato
@@ -965,6 +983,7 @@ ioni, riferite tanto all’orale quanto allo scritto.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Quale sia l’interpretazione che si dà, resta fermo il fatto che l’uso della
  lingua in diplomazia ha enorme importanza, in quanto la lingua non è solo
  uno strumento, un veicolo per trasmettere pensieri, o uno strumento di
@@ -977,6 +996,7 @@ Quale sia l’interpretazione che si dà, resta fermo il fatto che l’uso della
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Le situazioni comunicative in cui i diplomati si ritrovano normalmente possono
  essere ridotte a due categorie: le due parti condividono la stessa lingua
  madre, come accade per esempio tra Portogallo e Brasile, o Spagna e Argentina,
@@ -988,6 +1008,7 @@ Le situazioni comunicative in cui i diplomati si ritrovano normalmente possono
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Numerose sono le problematiche comunicative che insorgono nel caso di lingue
  madri discordanti, alle quali si può porre rimedio con una serie di soluzioni,
  sebbene nessuna di esse possa dirsi ideale.
@@ -995,6 +1016,7 @@ Numerose sono le problematiche comunicative che insorgono nel caso di lingue
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Può verificarsi, per esempio, che uno degli interlocutori adotta la lingua
  dell’altro, e in tal caso i problemi che insorgono possono essere legati
  a una scarsa o comunque inadeguata padronanza della lingua straniera dando
@@ -1004,6 +1026,7 @@ Può verificarsi, per esempio, che uno degli interlocutori adotta la lingua
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Una seconda possibilità è che la lingua utilizzata sia straniera per entrambe
  le parti.
  Un problema potenziale potrebbe essere che nessuna delle due parti abbia
@@ -1014,11 +1037,12 @@ Una seconda possibilità è che la lingua utilizzata sia straniera per entrambe
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Una terza opzione prevede la presenza di interpreti, anche questa di ampio
  utilizzo in particolare nell’ambito della diplomazia multilaterale o per
- negoziazioni a un livello politico molto alto, non solo per questioni di
- equità, ma anche perché spesso politici e uomini di stato non parlano le
- lingue straniere.
+ negoziati a un livello politico molto alto, non solo per questioni di equità,
+ ma anche perché spesso politici e uomini di stato non parlano le lingue
+ straniere.
  Anche questo metodo, tuttavia, prevede degli svantaggi, in quanto oltre
  a essere costoso in termini di denaro e tempo, può rivelarsi inadeguato
  in quanto l’interprete pur avendo una buona competenza linguistica in entrambe
@@ -1043,13 +1067,19 @@ Language and diplomacy
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Per quanto riguarda l’uso della lingua nella comunicazione diplomatica scritta,
  invece, esso risulta solitamente più determinato, e regolato da uno dei
  principi fondamentali della contemporanea legge internazionale, ossia il
  principio dell’uguaglianza sovrana degli stati: 
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing single
 
 \size small
 Tutti gli Stati godono di uguaglianza sovrana.
@@ -1067,32 +1097,42 @@ Risoluzione dell'Assemblea generale delle Nazioni Unite 2625 del 24 ottobre
 \end_inset
 
 .
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 In applicazione di questo principio all’ambito linguistico, possono verificarsi
  le seguenti situazioni: 
 \end_layout
 
 \begin_layout Itemize
+\paragraph_spacing onehalf
 ogni stato scrive le proprie comunicazioni adottando la propria lingua ufficiale
 ;
 \end_layout
 
 \begin_layout Itemize
+\paragraph_spacing onehalf
 ogni stato scrive le proprie comunicazioni adottando la lingua ufficiale
  del proprio interlocutore; 
 \end_layout
 
 \begin_layout Itemize
+\paragraph_spacing onehalf
 la corrispondenza in ogni paese è condotta adottando la lingua locale; 
 \end_layout
 
 \begin_layout Itemize
+\paragraph_spacing onehalf
 entrambe le parti possono adottare una terza lingua.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Nel caso della diplomazia multilaterale la situazione si complica ulteriormente,
  e varie sono le organizzazioni internazionali e conferenze diplomatiche
  che hanno tentato, in modo più o meno efficace, di porre rimedio al problema
@@ -1106,6 +1146,7 @@ Nel caso della diplomazia multilaterale la situazione si complica ulteriormente,
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Un aspetto essenziale della lingua in ambito diplomatico riguarda in realtà
  il messaggio stesso.
  La comunicazione orale rappresenta la quintessenza del contatto tra persone,
@@ -1118,10 +1159,11 @@ Un aspetto essenziale della lingua in ambito diplomatico riguarda in realtà
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Ogni discorso verbale, che sia una chiacchierata, una conversazione, uno
- scambio di opinioni, un incontro diplomatico formale, una negoziazione
- ufficiale, o altro, è essenzialmente un dialogo, e si basa pertanto su
- due attività fondamentali: parlare all’altro e ascoltarlo.
+ scambio di opinioni, un incontro diplomatico formale, una trattativa ufficiale,
+ o altro, è essenzialmente un dialogo, e si basa pertanto su due attività
+ fondamentali: parlare all’altro e ascoltarlo.
  Parlare significa usare delle parole tra loro organizzate in frasi, che
  a loro volta assumono un ordine logico; inoltre esso include l’accento
  su alcune parole o l’enfasi su alcune parti di una frase, il tono della
@@ -1130,6 +1172,7 @@ Ogni discorso verbale, che sia una chiacchierata, una conversazione, uno
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 La scelta delle parole giuste è di estrema importanza in diplomazia, e quando
  un diplomatico interpreta la lingua del suo interlocutore e ogni sua singola
  parola parte sempre dal presupposto che la scelta e la disposizione dei
@@ -1154,13 +1197,20 @@ Aspetti pragmatici del linguaggio diplomatico
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Un diplomatico è un uomo d’azione: egli cerca, stabilisce e fissa delle
  regole che consentiranno agli uomini di vivere meglio insieme in futuro.
  
 \end_layout
 
 \begin_layout Standard
-Due sono gli studi fondamentali in tal senso: How to do things with words
+\paragraph_spacing onehalf
+Due sono gli studi fondamentali in tal senso: 
+\shape italic
+\size small
+How to do things with words
+\shape default
+\size default
  (1962)
 \begin_inset Foot
 status collapsed
@@ -1176,7 +1226,13 @@ How To Do Things With Words
 
 \end_inset
 
-, di John Austin, e Speech Acts (1969)
+, di John Austin, e 
+\shape italic
+\size small
+Speech Acts
+\shape default
+\size default
+ (1969)
 \begin_inset Foot
 status collapsed
 
@@ -1199,6 +1255,7 @@ co, ma non solo: parole e azioni costituiscono un tutt’uno.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 In ambito diplomatico, tre sono gli aspetti pragmatici da considerare: ogni
  discorso è un atto intenzionale; ogni atto linguistico ha un effetto; in
  ogni atto linguistico è presente un “non-detto” che ha comunque un ruolo
@@ -1207,6 +1264,7 @@ In ambito diplomatico, tre sono gli aspetti pragmatici da considerare: ogni
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Ogni atto linguistico è caratterizzato da quattro modalità, quella assertiva,
  ossia, come accade in molti documenti diplomatici, l’affermazione di una
  verità; quella interrogativa, ossia il tentativo di ottenere una risposta
@@ -1220,6 +1278,7 @@ Ogni atto linguistico è caratterizzato da quattro modalità, quella assertiva,
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Gli effetti di un atto linguistico, invece, sono quello locutorio, ossia
  l’associazione di suoni in parole secondo una precisa organizzazione sintattica
 , quello illocutorio, ossia l’enunciazione, e quello perlocutorio, ossia
@@ -1227,6 +1286,7 @@ Gli effetti di un atto linguistico, invece, sono quello locutorio, ossia
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 In molti discorsi, inoltre, è possibile rintracciare elementi celati, che
  si dividono essenzialmente in due categorie, presupposizioni, ossia fatti
  e nozioni che emittente e destinatario condividono già e dunque non è necessari
@@ -1259,12 +1319,14 @@ Caratteristiche dei testi diplomatici
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Come si è avuto modo di evidenziare nei precedenti paragrafi, i testi scritti
  rappresentano un elemento essenziale della diplomazia.
  
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Per alcuni testi sono presenti formule stereotipate, come quelle di apertura
  e chiusura dei trattati; tutti i testi sono redatti per essere condivisi
  con un’altra parte, o con più parti nel caso della diplomazia multilaterale,
@@ -1278,6 +1340,7 @@ Per alcuni testi sono presenti formule stereotipate, come quelle di apertura
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Oggi, però, le nuove forme e mezzi di comunicazione hanno influenzato il
  modo in cui i documenti della diplomazia sono scritti, che siano essi interni
  o indirizzati a una o più entità esterne al paese.
@@ -1285,6 +1348,7 @@ Oggi, però, le nuove forme e mezzi di comunicazione hanno influenzato il
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 In passato, i documenti scambiati tra due paesi erano redatti adottando
  un’unica lingua veicolare, ossia il latino.
  Nel secolo XVIII, il francese divenne lingua diplomatica generalmente accettata
@@ -1301,6 +1365,7 @@ In passato, i documenti scambiati tra due paesi erano redatti adottando
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Per ciò che concerne di documenti diplomatici formali, che solitamente prevedono
  un destinatario specifico, come il capo dello stato o il ministro degli
  esteri, essi presentano un contenuto stereotipato, così come stereotipate
@@ -1314,6 +1379,7 @@ Per ciò che concerne di documenti diplomatici formali, che solitamente prevedon
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Anche nei trattati, un tempo scritti con il più alto grado di formalità,
  con l’utilizzo di precise formule di apertura e chiusura, con la menzione
  delle parti, due o più, per intero nel titolo a cui seguiva un’affermazione
@@ -1326,6 +1392,7 @@ o di titoli e menzione delle parti semplificati, l’omissione dei nomi dei
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 Nel caso di documenti redatti in più lingue le situazioni che possono verificars
 i sono due: nelle relazioni bilaterali si differenzia tra lingue autentiche
  e traduzioni non ufficiali.
@@ -1341,6 +1408,7 @@ e di una traduzione non ufficiale in ebraico negli accordi bilaterali in
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 La scrittura di trattati in molte lingue è un compito complesso in particolare
  se una o più di queste lingue non usata durante la fase negoziale.
  Le versioni nelle lingue lavorative sono basate sulle registrazioni delle
