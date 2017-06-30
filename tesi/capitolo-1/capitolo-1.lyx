@@ -73,804 +73,431 @@
 
 \begin_body
 
-\begin_layout Standard
-In questo primo capitolo analizzeremo le conoscenze preliminari fondamentali
- al fine di comprendere lo stato dell'arte di cui tratteremo nel capitolo
- 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "chap:secondo-capitolo"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Nel paragrafo 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sec:La-diplomazia"
-
-\end_inset
-
- definiremo il termine diplomazia da un punto di vista teorico, facendo
- riferimento all'Enciclopedia Treccani e all'Oxford English Dictionary che
- forniscono due definizioni coerenti e che meglio si adattano ai concetti
- che tratteremo nel corso di questa tesi.
- Un breve accenno storico verrà inserito al fine di spiegare la nascita
- della diplomazia moderna in Europa.
-\begin_inset Newline newline
-\end_inset
-
-Andremo inoltre a definire più nel dettaglio due aspetti della diplomazia
- con riferimento all'area delle relazioni internazionali.
-\begin_inset Newline newline
-\end_inset
-
-Proseguiremo poi con la diplomazia all'interno dell'Organizzazione delle
- Nazioni Unite, definendo le differenze tra diplomazia aperta e segreta
- e relativi casi storici e tra diplomazia bilaterale e multilaterale.
-\end_layout
-
-\begin_layout Standard
-Nel paragrafo 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sec:Il-diplomatico"
-
-\end_inset
-
- definiremo brevemente la figura del diplomatico da un punto di vista teorico
- ed etimologico.
- 
-\end_layout
-
-\begin_layout Standard
-Poiché in un mondo sempre più internazionale e multiculturale, caratterizzato
- da imponenti fenomeni migratori e da rapidi cambiamenti degli assi economici,
- vi è la necessità di formare persone capaci di agire e comunicare in modo
- competente e appropriato non solo nei contesti esistenti, ma anche in possibili
- scenari futuri, concludiamo questo capitolo con il paragrafo 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sec:Il-linguaggio"
-
-\end_inset
-
- in cui forniamo il significato del termine 
-\begin_inset Quotes fld
-\end_inset
-
-linguaggio
-\begin_inset Quotes frd
-\end_inset
-
-, facendo anche riferimento a importanti linguisti che si sono occupati
- dello studio della lingua e considerando aspetti fondamentali quali il
- linguaggio verbale e non verbale al fine di comprendere quello che è il
- fulcro della tesi, ovvero il linguaggio diplomatico.
-\end_layout
-
 \begin_layout Section
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:La-diplomazia"
-
-\end_inset
-
-La diplomazia
+La diplomazia come lingua
 \end_layout
 
 \begin_layout Standard
-La diplomazia, secondo il Dizionario enciclopedico italiano, è 
-\begin_inset Quotes fld
-\end_inset
-
-l'arte di trattare, per conto dello Stato, affari di politica internazionale
-\begin_inset Quotes frd
-\end_inset
-
-.
- Più concretamente, può essere definita come 
-\begin_inset Quotes fld
-\end_inset
-
-l'insieme dei procedimenti attraverso i quali uno Stato mantiene le normali
- relazioni con altri soggetti di diritto internazionale, al fine di contemperarn
-e gli interessi in contrasto e di favorire la reciproca collaborazione per
- la soddisfazione di comuni bisogni
-\begin_inset Quotes frd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "TreccaniDiplomacyDefinition"
-
-\end_inset
-
-.
+\paragraph_spacing onehalf
+Oggi gli stati sono obbligati alla diplomazia per la natura stessa del mondo
+ in cui essi esistono e operano.
+ Pur essendo infatti entità tra loro separate, le azioni che ogni stato
+ intraprende influenzano inevitabilmente tutti gli altri, e per questo motivo
+ è impensabile che essi possano vivere in una condizione di isolamento.
+ I membri di un gruppo di stati indipendenti sono obbligati dunque a gestire
+ le conseguenze del fatto che la loro indipendenza non è assoluta ma legata
+ a un sistema di interdipendenze.
+ Nell’era della globalizzazione, pertanto ogni stato dipende dall’intero
+ ambiente globale.
  
 \end_layout
 
 \begin_layout Standard
-L'Oxford English Dictionary, invece, definisce la diplomazia come 
-\begin_inset Quotes fld
-\end_inset
-
-la condotta delle relazioni internazionali attraverso negoziati: il metodo
- grazie al quale tali relazioni vengono equilibrate e condotte da ambasciatori
- e inviati; il mestiere e l'arte del diplomatico
-\begin_inset Quotes frd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "OxfordDictionaryDiplomacy"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Le origini della diplomazia moderna in Europa vanno rintracciate nelle relazioni
- tra gli Stati del Nord Italia durante il Basso Medioevo.
- Milano, Venezia e la Toscana sono state un fiorente centro di relazioni
- diplomatiche nel XV secolo.
- Molte usanze diplomatiche tuttora in uso, come la presentazione delle credenzia
-li diplomatiche, si considerano risalenti alle pratiche rinascimentali italiane.
- Dall'Italia, la pratica diplomatica si è diffusa alle altre regioni europee.
- La Spagna è stata il primo Stato a inviare un rappresentante permanente,
- un Ambasciatore, alla Corte d'Inghilterra nel 1487.
- A partire dal XVI secolo l'invio di agenti diplomatici è diventata prassi
- tra tutti gli Stati europei e si è successivamente diffusa agli Stati extra-eur
-opei
-\begin_inset CommandInset citation
-LatexCommand cite
-key "HistoryOfDiplomacy"
-
-\end_inset
-
-.
+\paragraph_spacing onehalf
+Gli stati che sono consapevoli che la propria politica interna è influenzata
+ da qualunque cosa accada all’esterno dei confini nazionali non si limitano
+ a osservarsi reciprocamente a distanza, ma avvertono la necessità di dialogare
+ l’uno con l’altro.
+ È proprio questo dialogo tra stati indipendenti che rappresenta la sostanza
+ della diplomazia.
+ 
+\series bold
+Watson A., Diplomacy.
+ The Dialogue Between States, London: Routledge, 2013.
  
 \end_layout
 
 \begin_layout Standard
-La diplomazia, nell'area delle relazioni internazionali, è stata suddivisa
- in due tipi: la diplomazia tradizionale e la diplomazia pubblica che spiegherem
-o nella sottosezione successiva.
+\paragraph_spacing onehalf
+Elemento chiave del dialogo in ambito diplomatico è ovviamente la lingua,
+ che sarà in questo caso considerata sulla base di tre aspetti fondamentali,
+ ossia interpretazione, persuasione ed etica.
 \end_layout
 
 \begin_layout Subsection
-Diplomazia tradizionale e diplomazia pubblica
+Aspetti ermeneutici (interpretazione)
 \end_layout
 
 \begin_layout Standard
-La diplomazia tradizionale concerne i 
-\begin_inset Quotes fld
-\end_inset
-
-negoziati tra governi
-\begin_inset Quotes frd
-\end_inset
-
- e i negoziati tra governi e tra nazioni che spesso sono condotti dai leader
- di governo e dai diplomatici incaricati, come gli ambasciatori 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Traditional&PublicDiplomacy"
-
-\end_inset
-
-.
+\paragraph_spacing onehalf
+La lingua è molto più di un semplice strumento da usare, applicare o modellare
+ da adattare ai significati che si intende comunicare attraverso le parole.
+ La lingua è piuttosto ciò che definisce il quadro fondamentale, ciò che
+ modella l’essere umano.
+ L’espressione lingua madre, inoltre, evidenzia che quella lingua diviene
+ anche rappresentativa dell’individuo nel mondo.
+ In tal senso, è la lingua ciò che crea l'uomo, la società e la cultura.
+ La lingua esiste naturalmente prima di qualsiasi diplomazia, dando forma
+ al mondo e stabilendo le regole del gioco: in breve è ciò che crea la cornice
+ entro la quale la diplomazia si esplica.
  
 \end_layout
 
 \begin_layout Standard
-La diplomazia pubblica, chiamata anche 
-\begin_inset Quotes fld
-\end_inset
-
-diplomazia culturale
-\begin_inset Quotes frd
-\end_inset
-
-, rappresenta una forma contemporanea di diplomazia.
- Con diplomazia pubblica si descrivono 
-\begin_inset Quotes fld
-\end_inset
-
-gli sforzi delle nazioni per ottenere supporto e immagine positiva tra gli
- altri Paesi, solitamente per mezzo della gestione delle notizie e per mezzo
- di iniziative attentamente pianificate al fine di ottenere riscontri positivi
- in termini di impressioni
-\begin_inset Quotes frd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Traditional&PublicDiplomacy"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Subsubsection*
-La diplomazia culturale
-\end_layout
-
-\begin_layout Standard
-La diplomazia culturale o 
-\begin_inset Quotes fld
-\end_inset
-
-diplomazia tra culture
-\begin_inset Quotes frd
-\end_inset
-
- è esistita come pratica per secoli.
- È un tipo di diplomazia pubblica che include lo 
-\begin_inset Quotes fld
-\end_inset
-
-scambio di idee, di informazioni, di valori, di tradizioni e di altri aspetti
- della cultura tra le nazioni e i loro popoli allo scopo di favorire la
- comprensione reciproca, di rafforzare i rapporti, di accrescere la cooperazione
- socio-culturale e di promuovere gli interessi nazionali e sovranazionali
-\begin_inset Quotes frd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "DefOfCultDipl"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Nella pratica, la diplomazia culturale applica quelle teorie e quei modelli
- praticati nella storia da individui, comunità, Stati o istituzioni.
- Tra i modelli troviamo programmi di scambio culturale, delegazioni internaziona
-li o competizioni sportive.
+\paragraph_spacing onehalf
+Resta ovviamente comunque vero che la lingua è uno strumento, e in quanto
+ tale prevede che chi la utilizza sia in grado di farlo in modo appropriato
+ e perfino di plasmarla per conseguire i propri scopi.
+ Il parlante comune usa la lingua scegliendo determinate parole e organizzandole
+ in modo da ottenere espressioni appropriate allo scopo.
+ Il diplomatico si sforza di trovare quell’espressione che può essere sostenuta
+ da entrambe le parti.
+ A differenza di quanto detto in precedenza, dunque, la lingua così utilizzata,
+ cioè come strumento, è fatta, plasmata, dall’uomo, dalla società e dalla
+ cultura, e si configura come una sorta di artefatto.
  
-\begin_inset Newline newline
-\end_inset
-
-In un mondo sempre più globalizzato, in cui la tecnologia sempre più avanzata
- permette di entrare in contatto con 
-\begin_inset Quotes fld
-\end_inset
-
-l'altro
-\begin_inset Quotes frd
-\end_inset
-
- più di quanto fosse possibile prima, la diplomazia culturale è necessaria
- ad assicurare pace e stabilità.
- Quando è applicata al massimo livello, essa può portare alla rapida realizzazio
-ne di 5 principi:
-\end_layout
-
-\begin_layout Itemize
-rispetto e riconoscimento delle diversità culturali
-\end_layout
-
-\begin_layout Itemize
-dialogo globale tra culture
-\end_layout
-
-\begin_layout Itemize
-giustizia, uguaglianza, interdipendenza
-\end_layout
-
-\begin_layout Itemize
-protezione dei diritti fondamentali dell'uomo
-\end_layout
-
-\begin_layout Itemize
-pace e stabilità nel mondo
 \end_layout
 
 \begin_layout Standard
-Nel settore pubblico si distinguono due approcci che conducono alle relazioni
- regionali e internazionali, quello di 
-\shape italic
-hard power
-\shape default
- e quello di 
-\shape italic
-soft power
-\shape default
+\paragraph_spacing onehalf
+È proprio per questo motivo che lingue diverse possono trovare significati
+ comuni, e grazie a questi punti di incontro creati dalla lingua è possibile
+ il raggiungimento di un accordo tra due parti che parlano lingue diverse.
+ La traduzione non è dunque un compito impossibile, sebbene essa non possa
+ far a meno di caratterizzarsi per infedeltà o imprecisione 
+\series bold
+De Abreu Chulata K., Il traduttore.
+ Mito e (De)costruzione di un’identità, Milano: LED, 2016.
+\series default
+, in quanto le ambiguità, o connotazioni, non possono mai essere completamente
+ risolte e rimosse.
+ Così per esempio, la parola “crisi” significherà sempre giudizio e manifestazio
+ne per un greco antico, pericolo ma anche opportunità per un cinese, catastrofe
+ per un broker di Wall Street.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+Un singolo significato, dunque, non è incorporato in una sola parola; non
+ c’è assoluta stabilità in una data lingua; e anche laddove una certa stabilità
+ può essere fissata attraverso espressioni professionali, lo sfondo in cui
+ esse si inseriscono appartiene alla sfera culturale del popolo che parla
+ quella determinata lingua e si carica dunque di una serie di valori che
+ sono propri solo di quel popolo.
+ Scrivere, leggere e parlare, pertanto, significano sempre interpretare.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+Per ciò che concerne l’ambito della diplomazia, essa è costantemente implicata
+ con la questione dell’interpretazione, e quest’ultima è viceversa radicata
+ in ogni forma di diplomazia, includendo interpretazione di accordi del
+ passato o attuali, di espressioni tecniche, di gergo diplomatico.
+ La diplomazia, inoltre, non può essere separata dalla traduzione, in quanto
+ suo compito primario è la costruzione di un ponte di comunicazione tra
+ due parti che parlano due o più lingue.
+ 
+\series bold
+Pigman G., Contemporary Diplomacy, Cambridge: Polity Press, 2010
+\series default
 .
  
-\begin_inset Newline newline
-\end_inset
-
-Lo scienziato Joseph Nye ha definiti il primo come 
-\begin_inset Quotes fld
-\end_inset
-
-l'abilità a persuadere attraverso la cultura, i valori e le idee, in contrapposi
-zione all'hard power che conquista e costringe attraverso la forza militare
-\begin_inset Quotes frd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "CulturalDiplomacySite"
-
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Subsection
-La diplomazia delle Nazioni Unite
+Aspetti retorici (persuasione)
 \end_layout
 
 \begin_layout Standard
-L'Organizzazione delle Nazioni Unite è un'organizzazione intergovernativa
- a carattere internazionale.
- È nata subito dopo la Seconda guerra mondiale, nel 1945, andando a sostituire
- quella che era la vecchia Società delle Nazioni.
- Ad oggi, ne fanno parte 193 Stati del mondo su 196 riconosciuti sovrani.
- Principi e linee guide sono contenuti nel suo Statuto.
+\paragraph_spacing onehalf
+La lingua va ben oltre la propria funzione di esprimere e veicolare significati,
+ in quanto è in essa radicata l’intenzione o la volontà di affascinare o
+ persuadere il destinatario.
+ È risaputo che il potere, la forza e i tentativi di dominare sono elementi
+ che agiscono in tutte le lingue.
+ All'interno di tutta la tradizione filosofica mediterranea, la retorica,
+ insieme alla logica, è parte integrante della filosofia (solo per citare
+ qui Aristotele, San Paolo, Stoici, Cicerone, Averroes).
+ Se la logica è intesa come il modo per accrescere la persuasione attraverso
+ la necessità dell’argomentazione stessa, la retorica è considerata come
+ un modo per raggiungere la persuasione attraverso un insieme di considerazioni
+ intellettuali, logiche ed emotive.
+ La logica è usata soprattutto in ambito scientifico, mentre la retorica
+ è propria dell’ambito politico.
  
 \end_layout
 
 \begin_layout Standard
-Per via dei poteri garantitigli dalla legge nel suo Statuto e grazie al
- suo unico potere internazionale, le Nazioni Unite possono occuparsi di
- problematiche riguardanti pace e sicurezza, cambiamenti climatici, sviluppo
- sostenibile, diritti umani, disarmo, terrorismo, emergenze umanitarie,
- uguaglianza di genere e molto altro.
- 
-\begin_inset Newline newline
-\end_inset
-
-Grazie al dialogo tra i membri, e grazie alle numerose conferenze, l'Organizzazi
-one delle Nazioni Unite è diventata un meccanismo per i governi per risolvere
- insieme i problemi
-\begin_inset CommandInset citation
-LatexCommand cite
-key "UNSite"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Subsubsection
-Diplomazia aperta e diplomazia segreta
+\paragraph_spacing onehalf
+La retorica è onnicomprensiva quando si tratta di negoziazione: viene prima
+ della negoziazione, esiste durante la negoziazione e segue la negoziazione.
+ Negoziazione e diplomazia nel loro complesso dunque non possono preservarsi
+ dalla retorica.
 \end_layout
 
 \begin_layout Standard
-Dopo la Grande Guerra si sostenne che in futuro dovessero esserci 
-\begin_inset Quotes fld
-\end_inset
-
-accordi aperti
-\begin_inset Quotes frd
-\end_inset
-
- così da evitare improvvise manifestazioni belliche.
-\begin_inset Newline newline
-\end_inset
-
-Il Presidente Woodrow Wilson era colui che credeva che le cause della Grande
- Guerra andassero rilevate nei patti segreti risultanti da negoziati segreti.
-\end_layout
-
-\begin_layout Standard
-Con diplomazia aperta si possono intendere principalmente due cose: primo,
- che non dovrebbero esserci accordi segreti; secondo, che i negoziati andrebbero
- tenuti apertamente
-\begin_inset CommandInset citation
-LatexCommand cite
-key "UNDiplomacy"
-
-\end_inset
-
-.
-\begin_inset Newline newline
-\end_inset
-
-Alla Conferenza di Parigi del 1919, Wilson si attenne solo al primo aspetto
- della diplomazia aperta, ma non al secondo.
- Non voleva che le negoziazioni in atto fossero soggette all'opinione pubblica.
- Alcuni anni dopo, l'amministrazione Kennedy fu duramente criticata in seguito
- all'accettazione del trattato sulla messa al bando parziale dei test nucleari.
- I veri negoziati avevano avuto luogo 
-\begin_inset Quotes fld
-\end_inset
-
-dietro le quinte
-\begin_inset Quotes frd
-\end_inset
-
- per molti mesi, solo i ringraziamenti per il duro lavoro diplomatico svolto
- erano stati esposti pubblicamente.
-\end_layout
-
-\begin_layout Standard
-Nonostante si desideri una democrazia aperta e pubblica, c'è ancora bisogno
- di negoziazioni confidenziali con rappresentanti di governo
-\begin_inset CommandInset citation
-LatexCommand cite
-key "UNDiplomacy"
-
-\end_inset
-
-.
+\paragraph_spacing onehalf
+Diplomazia significa pertanto anche cercare di persuadere, affascinare,
+ portare l’altra parte a raggiungere un accordo.
+ Allo stesso modo, non si dà diplomazia senza un tentativo di dimostrare
+ i vantaggi di un accordo e gli svantaggi di un mancato accordo.
+ Un negoziatore deve percepire se stesso come un rappresentante legale o
+ un pubblico ministero che sostiene e difende gli interessi del proprio
+ paese e al tempo stesso gli interessi dell’altra parte.
  
 \end_layout
 
-\begin_layout Subsubsection
-Diplomazia bilaterale e multilaterale
+\begin_layout Subsection
+Aspetti etici
 \end_layout
 
 \begin_layout Standard
-Oggi la diplomazia è spesso praticata a livello multilaterale.
- Questo perchè la tecnologia moderna ha generalizzato gli interessi delle
- nazioni al punto tale che un'azione bilaterale appare inadeguata.
- Il bilateralismo era una della caratteristiche della diplomazia tradinzionale,
- dove due Paesi cercavano di risolvere le controversie sorte tra loro.
-\begin_inset CommandInset citation
-LatexCommand cite
-key "UNDiplomacy"
-
-\end_inset
-
-
+\paragraph_spacing onehalf
+La lingua non è solo significati ma anche parole.
+ Non c’è linguaggio senza un emittente e un destinatario, così come nessuna
+ lingua può esistere senza riconoscere il volto di qualcun altro, che si
+ tratti di un singolo individuo o di una comunità.
+ Inoltre, la lingua è possibile solo laddove l’altro è percepito e riconosciuto
+ come altro, come diverso.
+ La globalizzazione non inizia con gli interessi economici ma con il mutuo
+ rispetto etico.
 \end_layout
 
 \begin_layout Standard
-La multilateralità è presente nelle conferenze internazionali a cui i governi
- sono invitati a mandare i propri delegati.
- Gli Stati Uniti, ad esempio, hanno partecipato a 53 conferenze tra luglio
- 1941 e giugno 1945
-\begin_inset CommandInset citation
-LatexCommand cite
-key "UNDiplomacy"
-
-\end_inset
-
-.
-\begin_inset Newline newline
-\end_inset
-
-In assenza di una legislatura mondiale, queste conferenze fornivano un modo
- potenziale per la formulazione di programmi per un'azione internazionale
- collettiva.
- Alcune di esse venivano allestite ad hoc da alcuni Stati membri o da piccoli
- gruppi di Stati.
- Si trattava di una pratica generale.
- Negli ultimi decenni, sono state create alcune organizzazioni internazionali
- che tengono conferenze permanenti.
- Una delle più importanti è l'Organizzazione delle Nazioni Unite.
- Una delle più significative innovazioni nella conduzione di relazioni internazi
-onali è lo sviluppo di una diplomazia collettiva
-\begin_inset CommandInset citation
-LatexCommand cite
-key "UNDiplomacy"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Uno dei suoi sostenitori è un diplomatico britannico, Maurice Hankey, che
- ritiene che uno dei risultati significativi del condurre la diplomazia
- attraverso le conferenze sia la conoscenza che gli uomini di Stato acquisiscono
- l'uno dell'altro, portando ad avere completa franchezza nei dibattiti.
+\paragraph_spacing onehalf
+Compito della diplomazia è prevenire le guerre, gestire i conflitti di interesse
+ in modo che una guerra sia improbabile o in modo da ritardarne lo scoppio
+ il più possibile.
+ In alcuni casi, però, essa potrebbe anche preparare il terreno per una
+ guerra o incentivare conflitti ininterrotti.
+ Tuttavia la diplomazia si basa in realtà sul presupposto che vale sempre
+ la pena avviare un dialogo con l’altra parte, considerando questa come
+ un partner alla pari con il quale raggiungere un giusto ed equo accordo.
+ Nessuna negoziazione, nessuna attività diplomatica può pertanto svilupparsi
+ fino a quando l’altro viene visto come una “non entità”, poiché la diplomazia
+ è per la sua stessa natura guidata dal riconoscimento dell’altra parte
+ e da una profonda preoccupazione per il senso di equità.
  
-\end_layout
-
-\begin_layout Standard
-La diplomazia all'interno delle conferenze è stata praticata sin dall'inizio
- del XX secolo, anche se prima del 1914 se ne faceva un uso più scarso.
- Oltre alle conferenze internazionali ufficiali, i capi di Stato in visita
- erano spesso accompagnati dai propri ministri e queste occasioni venivano
- sfruttate per intrattenere conversazioni diplomatiche
-\begin_inset CommandInset citation
-LatexCommand cite
-key "UNDiplomacy"
-
-\end_inset
-
-.
- Negli anni precedenti alla Grande Guerra, il metodo di condurre affari
- internazionali attraverso conferenze dirette tra i principali ministri
- interessati era l'eccezione piuttosto che la regola
-\begin_inset CommandInset citation
-LatexCommand cite
-key "hankey1948diplomacy"
-
-\end_inset
-
-.
+\series bold
+Bjola C., Kornprobst M., Understanding International Diplomacy.
+ Theory, Practice and Ethics, London: Routledge, 2013.
+ 
 \end_layout
 
 \begin_layout Section
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Il-diplomatico"
-
-\end_inset
-
-Il diplomatico
+Nascita e sviluppo del linguaggio diplomatico
 \end_layout
 
 \begin_layout Standard
-Il diplomatico è un funzionario incaricato dallo Stato di condurre relazioni
- diplomatiche con uno o più Stati od organizzazioni internazionali.
+Dopo la pace di Vestfalia, nel XVII secolo, il sistema dello stato moderno
+ si sviluppò intorno alla lingua vernacolare, la quale, se fino a quel momento
+ era stata elemento fondamentale per costruire l’identità degli uomini e
+ delle nazioni, divenne ancor più importante: una componente essenziale
+ nell’identità degli individui, dei gruppi e delle nazioni.
  
 \end_layout
 
 \begin_layout Standard
-Il termine 
-\begin_inset Quotes fld
-\end_inset
+Se la lingua è in generale intesa come uno strumento di comunicazione, la
+ lingua della diplomazia rappresenta un ulteriore perfezionamento di tale
+ strumento, in quanto in ambito diplomatico le parole, per quanto innocenti
+ o neutrali esse possano apparire sulla carta o tra loro isolate, possono
+ divenire esplosive, emotive, calmanti, agitanti o persino rivoluzionarie.
+ 
+\end_layout
 
-diplomatico
-\begin_inset Quotes frd
-\end_inset
+\begin_layout Standard
+Le parole, che possono assumere significati diversi per le persone, o anche
+ cambiare a seconda del luogo e del tempo considerati, sono portatrici non
+ solo di senso ma anche di intenzione.
+ Possono dar piacere, persuadere o ferire.
+ 
+\end_layout
 
- deriva dal greco διπλωμάτης (diplōmátēs) con riferimento ai documenti di
- accreditamento rilasciati dalla propria nazione sovrana 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "anderson2014rise"
+\begin_layout Standard
+Alle parole si affianca inoltre la gestualità, il linguaggio corporeo, che
+ distingue l’uomo dalle altre creature per il suo modo di comunicare.
+ Il volto di una persona spesso comunica ben più delle parole; una non risposta
+ in realtà può essere letta come una risposta; un sorriso, un’espressione
+ accigliata, un sogghigno, o il semplice voltare le spalle a chi sta parlando
+ sono potenti modi di comunicare.
+ Anche il tono con cui qualcosa viene detto ha un suo peso comunicativo.
+ Si tratta tuttavia di una serie di elementi che spesso danno luogo a incomprens
+ioni e conflitti.
+ La scelta di parole o frasi, la loro struttura, il modo in cui esse sono
+ rese, è spesso una forma di comunicazione nella comunicazione, una forma
+ di eclettismo, in realtà, che rappresenta l’essenza stessa della comunicazione.
+ L’ambiguità, spesso per scelta, a volte costruttiva, e altre volte deliberatame
+nte offuscante e confondente è una caratteristica degli esseri umani.
+ 
+\series bold
+Winkler S., Ambiguity.
+ Language and Communication, Berlin: De Gruyter, 2015.
+ 
+\end_layout
 
-\end_inset
+\begin_layout Standard
+Il linguaggio diplomatico è figlio della lingua della comunicazione.
+ La sua formalizzazione in particolari schemi, con una determinata cadenza
+ e a volte intriso di ripetitività, è stata pensata per oleare i punti di
+ connessione delle relazioni tra popoli e nazioni.
+ Vari sono gli scopi che tali schemi consentono di perseguire, come per
+ esempio veicolare un messaggio mitigandone l’impatto negativo sotteso.
+ 
+\end_layout
 
+\begin_layout Standard
+Il linguaggio diplomatico si caratterizza dunque per una “mixture between
+ form and content wrapped in certain ceremony is designed to add weight
+ to the message while protecting the messenger”.
+ 
+\series bold
+Jaber K., “Language and diplomacy”, in Kurbalija J., Slavik H., Language and
+ diplomacy, DiploProjects, Mediterranean Academy of Diplomatic Studies,
+ Malta, 2001, pp.
+ 22-25.
+ 
+\end_layout
+
+\begin_layout Standard
+Ciò che differenzia il linguaggio diplomatico dalla lingua usata in contesti
+ ordinari è l’assenza in esso di elementi culturalmente connotati, in modo
+ da oltrepassare i confini del singolo paese e creare un veicolo di scambio
+ quasi neutrale che trasmette il messaggio senza arrecare danno alla personalità
+ dell’altro: il linguaggio diplomatico deve essere “diplomatically correct”.
+ 
+\series bold
+Ivi, p.
+ 23.
+
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+Nell’era della globalizzazione, inoltre, dove tutto si muove ad estrema
+ velocità, i capi di stato riconoscono spesso la necessità di non avvalersi
+ della figura dell’ambasciatore ma contattare personalmente l’altra parte,
+ con una telefonata o scrivendo un fax o una e-mail.
+ Inoltre, a seguito dell’aumentata frequenza con cui gli incontri tra capi
+ di stato si tengono in Summit o simili, il contenuto, la forma e la lingua
+ della diplomazia stanno cambiando in modi i cui i risultati finali non
+ sono ancora visibili.
+\end_layout
+
+\begin_layout Standard
+L’esempio più antico di linguaggio diplomatico può essere rintracciato nel
+ trattato di pace e amicizia concluso nel 2400 a.C., tra il regno di Ebla
+ (Siria settentrionale) e quello di Hamazi (nell’area dell’attuale Iran),
+ ritrovato negli archivi reali di Ebla e ora conservato nel Museo Archeologico
+ di Damasco.
+ Nella frase di apertura del trattato si legge “Irkab-Damu, King of Ebla,
+ (is the) brother of Zizi, King of Hamazi; Zizi King of Hamazi, (is the)
+ brother of Irkab-Damu, King of Ebla”.
+ 
+\series bold
+Ibidem.
+
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+Il linguaggio della diplomazia non ha sempre avuto successo nei secoli nella
+ risoluzione di problemi tra gli stati, né è sempre riuscito a oleare i
+ punti di contatto tra popoli.
+ Ciò appare evidente non solo se si considera la violenta storia umana dei
+ millenni trascorsi, ma anche la situazione attuale, nella quale gli intellettua
+li eruditi continuano a parlare di scontro piuttosto che di dialogo tra
+ civiltà.
+ Finora l'arte del nobile dialogo resta appannaggio solo per poeti, letterati
+ e intellettuali.
+ 
+\end_layout
+
+\begin_layout Standard
+Né tantomeno credi religiosi, né testi sacri, né credenze nella razionalità
+ dell'uomo, sembrano cambiare il comportamento dell'uomo, non importa quanto
+ sia potente il messaggio.
+ Questo è forse dovuto allo strano ceppo primordiale della natura umana
+ che induce la gente a prendere più sul serio il linguaggio dell'odio e
+ del conflitto che quello della civiltà e degli ideali.
+ 
+\series bold
+Fitzgerald T., Discourse on Civility and Barbarity, Oxford: Oxford University
+ Press, 2007.
+ 
+\end_layout
+
+\begin_layout Standard
+Infatti, coloro i quali parlano di relazioni armoniche o adesione ai principi
+ umanitari nella sfera politica vengono denominati 
+\shape italic
+idealisti
+\shape default
+ e ricevono meno attenzione rispetto ai cosiddetti 
+\shape italic
+realisti
+\shape default
 .
+ Come spiegava Machiavelli Debbe adunque uno principe non avere altro obietto
+ né altro pensiero, né prendere cosa alcuna per sua arte, fuora della guerra
+ et ordini e disciplina di essa; perché quella è sola arte che si espetta
+ a chi comanda.
+ Et è di tanta virtù, che non solamente mantiene quelli che sono nati principi,
+ ma molte volte fa li uomini di privata fortuna salire a quel grado; e per
+ avverso si vede che, quando e’ principi hanno pensato più alle delicatezze
+ che alle arme, hanno perso lo stato loro.
+ E la prima cagione che ti fa perdere quello, è negligere questa arte; e
+ la cagione che te lo fa acquistare, è lo essere professo di questa arte.
+ La potente negazione degli ideali e la ragione dell'uomo per creare un
+ mondo migliore possono anche essere attribuiti al potere del linguaggio.
+ Tutta la nostra epoca è caratterizzata da incertezza e violenza.
+ La convinzione della razionalità e la capacità dell'uomo di governare la
+ sua vita, sempre tenue e debole, sono state ulteriormente indeboliti in
+ questo e negli ultimi secoli dalle opere di Darwin, Freud, Marx e Einstein:
+ ognuno nel suo campo ha ristretto ulteriormente i parametri della ragione,
+ ha scosso al nucleo la certezza e la fiducia assoluta nella ragione umana
+ propagata dall'età dell'illuminismo.
+ La conclusione a cui sono giunti è che l'uomo è governato da forze esterne
+ al suo controllo.
+ La violenza e la guerra possono quindi essere razionalizzate come se fossero
+ al di fuori della pallida volontà dell'uomo.
+ Ciò che rende la questione più pertinente è il fatto che intere culture
+ in tutto il mondo stanno attraversando un processo di transizione, con
+ un piede saldamente piantato nel passato, mentre l'altro tenta di esplorare
+ il futuro.
+ Questa dialettica tra tradizione e modernità assume tratti più acuti e
+ a volte anche violenti in alcune civiltà piuttosto che in altre.
+ Ma in ognuna di esse, la violenza fisica e verbale è un dato di fatto.
+ Sono ben pochi gli individui che nella nostra epoca riescono ad affrancarsi
+ dai propri pregiudizi e dal clima intellettuale in cui vivono, o che hanno
+ il coraggio di accettare le differenze in termini umani.
+ È per questo motivo che il linguaggio formalizzato della diplomazia è oggi
+ necessario più che nel passato.
+ Laddove il potere rimane la moneta delle relazioni internazionali e laddove,
+ riprendendo le parole del filosofo politico britannico Thomas Hobbes (1558-1629
+), per gran parte dell'umanità la vita rimane vicina a quella di una giungla
+ in uno stato di natura dove gli uomini si scontrano gli uni con gli altri,
+ è perentorio dare maggiore enfasi al ricorso al linguaggio della diplomazia.
+ E ora con un unico gigante super potere che fa sembrare tutte le altre
+ nazioni minuscole per confronto, questa necessità è maggiore.
+ Infatti sembra che per le potenze di medie o piccole dimensioni la necessità
+ di affidarsi alla diplomazia sia molto più grande di quella delle grandi
+ potenze, in quanto essa diviene lo strumento principale per proteggere
+ i propri interessi.
+ Come detto in precedenza, la diplomazia è la gestione delle relazioni tra
+ due paesi, l’arte di convincere gli altri a percepire le cose secondo un
+ determinato punto di vista, o perlomeno a formulare un pensiero diverso.
+ È la combinazione di logica e scienza con il dono di un linguaggio appropriatam
+ente confezionato necessario a convincere gli altri.
+ Il potere della lingua si basa sul fatto che essa contiene delle idee,
+ e le idee sono, riprendendo quanto espresso da Platone, più resistenti,
+ più permanenti della materia.
+ Le idee possono essere soppresse, possono essere clandestine ma a differenza
+ di una statua o di qualunque altra cosa materiale non possono essere frantumate.
+ Esse possono solo essere accolte e affrontate da altre idee.
+ Storicamente è la magia delle parole che ha incantato, ammaliato e a volte
+ intossicato le persone a portarle a compiere azioni grandi o meschine.
+ La lingua della diplomazia, spesso come la poesia, ha l’abilità di far
+ portare le persone a passare da uno stato d’animo all’altro.
+ Che si tratti di demagogia o espressione di nobili ideologie, di teorie
+ o di credenze religiose, il linguaggio ordinario o quello della diplomazia
+ ha un impeto e una forza trainante interiore che è senza tempo.
+ 
 \end_layout
 
-\begin_layout Section
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Il-linguaggio"
-
-\end_inset
-
-Il linguaggio
-\end_layout
-
-\begin_layout Standard
-Poiché in un mondo sempre più internazionale e multiculturale, caratterizzato
- da imponenti fenomeni migratori e da rapidi cambiamenti degli assi economici,
- vi è la necessità di formare persone capaci di agire e comunicare in modo
- competente e appropriato non solo nei contesti esistenti, ma anche in possibili
- scenari futuri, è bene definire il termine 
-\begin_inset Quotes fld
-\end_inset
-
-linguaggio
-\begin_inset Quotes frd
-\end_inset
-
- dal punto di vista teorico, fornendo inoltre la descrizione di aspetti
- quali il linguaggio verbale e non verbale che ci porteranno a comprendere
- meglio il linguaggio diplomatico, cuore di questa tesi.
-\end_layout
-
-\begin_layout Standard
-Una prima definizione che possiamo fornire di 
-\begin_inset Quotes fld
-\end_inset
-
-linguaggio
-\begin_inset Quotes frd
-\end_inset
-
- è 
-\begin_inset Quotes fld
-\end_inset
-
-l'abilità di acquisire e di usare complessi sistemi di comunicazione
-\begin_inset Quotes frd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Ancora più significativa è la definizione fornita dal linguista statunitense
- Noam Chomsky il quale definisce il linguaggio 
-\begin_inset Quotes fld
-\end_inset
-
-un insieme (finito o infinito) di frasi, ciascuna finita in lunghezza, e
- costruito su un insieme finito di elementi
-\begin_inset Quotes frd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "chomsky1986knowledge"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Subsubsection*
-Il linguaggio verbale e non verbale
-\end_layout
-
-\begin_layout Standard
-In un mondo sempre più internazionale e multiculturale, caratterizzato da
- imponenti fenomeni migratori e da rapidi cambiamenti degli assi economici,
- vi è la necessità di formare persone capaci di agire e comunicare in modo
- competente e appropriato non solo nei contesti esistenti, ma anche in possibili
- scenari futuri
-\begin_inset CommandInset citation
-LatexCommand cite
-key "LinguaggiVerbalieNON"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-La comunicazione interpersonale è costituita dall'insieme dei fenomeni che
- veicolano lo scambio di informazioni tra due o più persone sia attraverso
- il linguaggio verbale sia quello non verbale.
-\end_layout
-
-\begin_layout Standard
-Definiamo comunicazione verbale il linguaggio che avviene attraverso l'uso
- del linguaggio, sia scritto che orale, e che dipende da precise regole
- sintattiche e grammaticali.
- Parliamo quindi di una serie di aspetti che vanno oltre il mero significato
- semantico del messaggio e che includono caratteristiche legate alla qualità
- del messaggio stesso, cioè a come viene espresso, ad esempio con quale
- tono di voce, con quale formalità, con quale struttura testuale e via dicendo
-\begin_inset CommandInset citation
-LatexCommand cite
-key "LinguaggiVerbalieNON"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Anche questi aspetti vanno ad influire sull'esito della comunicazione perchè
- ciò che può sembrare naturale ed educato per qualcuno, per altri può apparire
- inadeguato e condurre così a fraintendimenti e a spiacevoli incidenti comunicat
-ivi
-\begin_inset CommandInset citation
-LatexCommand cite
-key "LinguaggiVerbalieNON"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-La comunicazione non verbale, invece, comprende gli aspetti che non riguardano
- il significato letterale delle parole componenti il messaggio, ma il linguaggio
- del corpo
-\begin_inset CommandInset citation
-LatexCommand cite
-key "LinguaggiVerbalieNON"
-
-\end_inset
-
-.
-\begin_inset Newline newline
-\end_inset
-
-Questo tipo di comunicazione viene diviso in quattro componenti:
-\end_layout
-
-\begin_layout Enumerate
-sistema paralinguistico: comprende tutte le componenti vocali non verbali
- del parlato e le emissioni vocali non verbali
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-tono
-\end_layout
-
-\begin_layout Enumerate
-frequenza
-\end_layout
-
-\begin_layout Enumerate
-ritmo
-\end_layout
-
-\begin_layout Enumerate
-silenzio
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-sistema cinesico: studio del linguaggio del corpo articolato in
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-studio della mimica facciale
-\end_layout
-
-\begin_layout Enumerate
-studio della gestualità
-\end_layout
-
-\begin_layout Enumerate
-studio della postura
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-prossemica: studio dell'uso sociale e comunicativo dell'organizzazione dello
- spazio inteso come condizione e prodotto dell'azione
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-zona intima
-\end_layout
-
-\begin_layout Enumerate
-zona personale
-\end_layout
-
-\begin_layout Enumerate
-zona sociale
-\end_layout
-
-\begin_layout Enumerate
-zona pubblica
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-aptica: messaggi comunicativi espressi tramite contatto fisico
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-stretta di mano
-\end_layout
-
-\begin_layout Enumerate
-bacio
-\end_layout
-
-\begin_layout Enumerate
-abbraccio
-\end_layout
-
-\begin_layout Enumerate
-pacche
-\begin_inset CommandInset citation
-LatexCommand cite
-key "SocioComunicazione"
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \end_body
 \end_document

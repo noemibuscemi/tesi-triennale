@@ -536,7 +536,7 @@ filename "introduzione.lyx"
 \end_layout
 
 \begin_layout Chapter
-Background
+Il linguaggio diplomatico
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:primo-capitolo"
