@@ -78,7 +78,6 @@
 \begin_body
 
 \begin_layout Section
-\paragraph_spacing onehalf
 La diplomazia come lingua
 \end_layout
 
@@ -998,6 +997,18 @@ ioni, riferite tanto all’orale quanto allo scritto.
 
 \begin_layout Standard
 \paragraph_spacing onehalf
+Le situazioni comunicative in cui i diplomati si ritrovano normalmente possono
+ essere ridotte a due categorie: le due parti condividono la stessa lingua
+ madre, come accade per esempio tra Portogallo e Brasile, o Spagna e Argentina,
+ sebbene bisogna comunque tener presenti le differenze che una stessa lingua
+ parlata in due paesi diversi ha, per influenza degli aspetti socio-culturali;
+ le due parti non condividono la stessa lingua madre, che è la situazione
+ si verifica con maggior frequenza.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
 Quale sia l’interpretazione che si dà, resta fermo il fatto che l’uso della
  lingua in diplomazia ha enorme importanza, in quanto la lingua non è solo
  uno strumento, un veicolo per trasmettere pensieri, o uno strumento di
@@ -1006,18 +1017,6 @@ Quale sia l’interpretazione che si dà, resta fermo il fatto che l’uso della
  È per questo motivo che sin dai tempi antichi, le persone che ricoprivano
  il ruolo di delegati dovevano essere ben istruite, avere una buona competenza
  nella propria lingua madre, ed essere poliglotte.
- 
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-Le situazioni comunicative in cui i diplomati si ritrovano normalmente possono
- essere ridotte a due categorie: le due parti condividono la stessa lingua
- madre, come accade per esempio tra Portogallo e Brasile, o Spagna e Argentina,
- sebbene bisogna comunque tener presenti le differenze che una stessa lingua
- parlata in due paesi diversi ha, per influenza degli aspetti socio-culturali;
- le due parti non condividono la stessa lingua madre, che è la situazione
- si verifica con maggior frequenza.
  
 \end_layout
 
@@ -1099,7 +1098,7 @@ Tutti gli Stati godono di uguaglianza sovrana.
  della comunità internazionale, nonostante le differenze economiche, sociali,
  politiche e di altro genere
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Risoluzione dell'Assemblea generale delle Nazioni Unite 2625 del 24 ottobre
@@ -1119,6 +1118,13 @@ Risoluzione dell'Assemblea generale delle Nazioni Unite 2625 del 24 ottobre
 \paragraph_spacing onehalf
 In applicazione di questo principio all’ambito linguistico, possono verificarsi
  le seguenti situazioni: 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "anderson2014rise,CaseOfStudy_Summit"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -1436,24 +1442,23 @@ La scrittura di trattati in molte lingue è un compito complesso in particolare
  i lavori.
  La complessità del compito di una commissione di bozze spiega perché, in
  alcuni casi, essa è riconvocata dopo che il trattato è stato già autenticato
- al fine di apportare aggiustamenti linguistici tra le varie versioni
+ al fine di apportare aggiustamenti linguistici tra le varie versioni.
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Kappeler D., “Texts in Diplomacy”, in Kurbalija J., Slavik H., 
-\shape italic
-Language and diplomacy
-\shape default
-, DiploProjects, Mediterranean Academy of Diplomatic Studies, Malta, 2001,
- pp.
- 107-109.
- 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "PublicDiplomacy"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
 
-.
+
 \end_layout
 
 \end_body

@@ -21,6 +21,8 @@
 \usepackage[table]{xcolor}
 \usepackage{booktabs}
 \usepackage{algpseudocode}
+%\usepackage{footbib}
+
 
 % questa è uno sporca soluzione per gestire il fatto che le versioni
 % LTS di Ubuntu/Kubuntu hanno un pacchetto "geometry" vecchio
@@ -42,6 +44,27 @@
 \fancyfoot[OC]{\begin{flushright}\thepage\end{flushright}}
 \renewcommand{\headrulewidth}{0.4pt}
 \setlength{\headheight}{14pt}
+
+\jurabibsetup{%
+titleformat=italic,% Titles in italic\\
+  titleformat=commasep,% A comma between athors and title
+  titleformat=all,% Always show a title (or a short title)
+  commabeforerest,% A comma after title\\ 
+  ibidem=strict,%
+  citefull=first,% The first citing in full form
+  oxford,% The oxford style
+  super,% Footnotes
+  dotafter=true,%
+  see,% An extra optional argument as a prenote
+  idem
+}
+
+\jurabibsetup{authorformat=smallcaps,authorformat=year,round}
+\renewcommand{\jbcitationyearformat}[1]{\unskip,\space#1:}
+
+%\let\cite\footcite
+%\let\bibliography\footbibliography
+%\let\bibliographystyle\footbibliographystyle
 \end_preamble
 \options openright
 \use_default_options false
@@ -89,8 +112,8 @@
 \use_package stackrel 1
 \use_package stmaryrd 1
 \use_package undertilde 1
-\cite_engine basic
-\cite_engine_type default
+\cite_engine jurabib
+\cite_engine_type authoryear
 \biblio_style plain
 \use_bibtopic false
 \use_indices false
@@ -619,7 +642,7 @@ filename "conclusioni.lyx"
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "bibliografia"
-options "bibtotoc,plain"
+options "jox"
 
 \end_inset
 
