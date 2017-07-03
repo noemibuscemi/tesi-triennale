@@ -75,6 +75,10 @@
 \paperfontsize 11
 \spacing onehalf
 \use_hyperref true
+\pdf_title "Analisi linguistica del linguaggio diplomatico"
+\pdf_author "Noemi Buscemi"
+\pdf_subject "Tesi"
+\pdf_keywords "Diplomazia; Linguaggio; Lingua"
 \pdf_bookmarks true
 \pdf_bookmarksnumbered false
 \pdf_bookmarksopen false
