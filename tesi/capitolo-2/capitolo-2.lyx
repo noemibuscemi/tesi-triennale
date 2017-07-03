@@ -422,8 +422,7 @@ English grammar in context
 \end_layout
 
 \begin_layout Section
-Analisi contrastiva dei discorsi di Theresa May prima e dopo la campagna
- elettorale
+Analisi contrastiva discorsi di Theresa May prima e dopo la campagna elettorale
 \end_layout
 
 \begin_layout Standard
@@ -451,7 +450,7 @@ afi.
 
 Il linguaggio utilizzato da May è spesso molto enfatico, come segnalato
  in particolare dalla ripetizione di alcune parole e gruppi di parole; si
- osservi per esempio l’introduzione (le sottolineature sono mie):
+ osservi per esempio l’introduzione:
 \begin_inset VSpace defskip
 \end_inset
 
@@ -474,7 +473,10 @@ voted
 
 \shape italic
 \size small
-They 
+\bar under
+They
+\bar default
+ 
 \bar under
 voted
 \bar default
@@ -486,7 +488,10 @@ voted
 
 \shape italic
 \size small
-They 
+\bar under
+They
+\bar default
+ 
 \bar under
 voted
 \bar default
@@ -500,7 +505,15 @@ voted
 \size small
 And they did so with their eyes open: accepting that the road ahead will
  be uncertain at times, but believing that it leads towards a brighter future
- for their children – and their grandchildren too.
+ for 
+\bar under
+their
+\bar default
+ children – and 
+\bar under
+their
+\bar default
+ grandchildren too.
 \begin_inset VSpace defskip
 \end_inset
 
@@ -727,7 +740,7 @@ It was a vote […] to become even more global.
 \begin_layout Itemize
 
 \shape italic
-[…] that means we must […] become an associate member of the Customs Union
+[…] that means we must […] become an associate member of the Customs Union.
 \end_layout
 
 \begin_layout Standard
@@ -744,7 +757,7 @@ Britain’s history and culture is profoundly internationalist.
 \begin_layout Itemize
 
 \shape italic
-[…] our history and culture is profoundly internationalist […] 
+[…] our history and culture is profoundly internationalist […]
 \end_layout
 
 \begin_layout Itemize
@@ -758,7 +771,7 @@ Our political traditions are different.
 
 \shape italic
 David Cameron’s negotiation was a valiant final attempt to make it work
- for Britain […] 
+ for Britain […]
 \end_layout
 
 \begin_layout Itemize
@@ -775,7 +788,11 @@ Processo mentale
 Il processo mentale include attività di percezione, cognizione, affetto
  e desiderio, e si realizza con l’impiego di verbi quali “to know”, “to
  think”, “to hate”, eccetera.
- Di seguito alcuni esempi:
+ 
+\begin_inset Newline newline
+\end_inset
+
+Di seguito alcuni esempi:
 \end_layout
 
 \begin_layout Standard
@@ -800,8 +817,12 @@ know
 
 \shape italic
 \size small
-As home secretary for 6 years, I know that you cannot control immigration
- overall when there is free movement to Britain from Europe.
+As home secretary for 6 years, I 
+\bar under
+know
+\bar default
+ that you cannot control immigration overall when there is free movement
+ to Britain from Europe.
 \end_layout
 
 \begin_layout Standard
@@ -854,15 +875,6 @@ le, in quanto servono a stabilire un contatto tra chi parla e chi ascolta
  vari pronomi, considerando tanto quelli personali, nella forma soggetto
  e nella forma complemento, quanto quelli possessivi, nella forma aggettivale
  e pronominale.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename /home/noemi/Scrivania/pronomi personali per numero di occorrenze.png
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsubsection
