@@ -107,7 +107,7 @@ Gli Stati che sono consapevoli che la propria politica interna è influenzata
 \series bold
 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \paragraph_spacing onehalf
@@ -193,12 +193,7 @@ Il traduttore.
  Così per esempio, la parola “crisi” significherà sempre giudizio e manifestazio
 ne per un greco antico, pericolo ma anche opportunità per un cinese, catastrofe
  per un broker di Wall Street.
- 
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-Un singolo significato, dunque, non è incorporato in una sola parola; non
+ Un singolo significato, dunque, non è incorporato in una sola parola; non
  c’è assoluta stabilità in una data lingua; e anche laddove una certa stabilità
  può essere fissata attraverso espressioni professionali, lo sfondo in cui
  esse si inseriscono appartiene alla sfera culturale del popolo che parla
@@ -591,13 +586,7 @@ status collapsed
 \align block
 
 \size small
-Machiavelli N., 
-\shape italic
-\size default
-Il Principe
-\shape default
-\size small
-, cap.
+Machiavelli N., Il Principe, cap.
  14, Torino: Einaudi, 1972, p.
  68.
 \end_layout
