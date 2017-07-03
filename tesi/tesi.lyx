@@ -59,9 +59,6 @@ titleformat=italic,% Titles in italic\\
   idem
 }
 
-\jurabibsetup{authorformat=smallcaps,authorformat=year,round}
-\renewcommand{\jbcitationyearformat}[1]{\unskip,\space#1:}
-
 %\let\cite\footcite
 %\let\bibliography\footbibliography
 %\let\bibliographystyle\footbibliographystyle

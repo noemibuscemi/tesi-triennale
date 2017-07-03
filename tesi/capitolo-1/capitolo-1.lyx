@@ -68,6 +68,7 @@
 \papercolumns 1
 \papersides 2
 \paperpagestyle fancy
+\bullet 0 0 10 -1
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -123,10 +124,9 @@ Diplomacy.
 
 \series default
 .
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
-\paragraph_spacing onehalf
 Elemento chiave del dialogo in ambito diplomatico è ovviamente la lingua,
  che sarà in questo caso considerata sulla base di tre aspetti fondamentali,
  ossia interpretazione, persuasione ed etica.
@@ -139,7 +139,6 @@ Aspetti ermeneutici (interpretazione)
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 La lingua è molto più di un semplice strumento da usare, applicare o modellare
  da adattare ai significati che si intende comunicare attraverso le parole.
  La lingua è piuttosto ciò che definisce il quadro fondamentale, ciò che
@@ -155,7 +154,6 @@ La lingua è molto più di un semplice strumento da usare, applicare o modellare
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Resta ovviamente comunque vero che la lingua è uno strumento e in quanto
  tale prevede che chi la utilizza sia in grado di farlo in modo appropriato
  e perfino di plasmarla per conseguire i propri scopi.
@@ -167,11 +165,9 @@ Resta ovviamente comunque vero che la lingua è uno strumento e in quanto
  cioè come strumento, è fatta dall’uomo, dalla società e dalla cultura,
  e si configura come una sorta di artefatto.
  
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
-\paragraph_spacing onehalf
-\align block
 È proprio per questo motivo che lingue diverse possono trovare significati
  comuni, e grazie a questi punti di incontro creati dalla lingua è possibile
  raggiungere un accordo tra due parti che parlano lingue diverse.
@@ -202,7 +198,6 @@ ne per un greco antico, pericolo ma anche opportunità per un cinese, catastrofe
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Un singolo significato, dunque, non è incorporato in una sola parola; non
  c’è assoluta stabilità in una data lingua; e anche laddove una certa stabilità
  può essere fissata attraverso espressioni professionali, lo sfondo in cui
@@ -215,7 +210,6 @@ Un singolo significato, dunque, non è incorporato in una sola parola; non
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-\align block
 Per ciò che concerne l’ambito della diplomazia, essa è costantemente implicata
  con la questione dell’interpretazione, e quest’ultima è viceversa radicata
  in ogni forma di diplomazia, includendo interpretazione di accordi del
@@ -1442,23 +1436,24 @@ La scrittura di trattati in molte lingue è un compito complesso in particolare
  i lavori.
  La complessità del compito di una commissione di bozze spiega perché, in
  alcuni casi, essa è riconvocata dopo che il trattato è stato già autenticato
- al fine di apportare aggiustamenti linguistici tra le varie versioni.
+ al fine di apportare aggiustamenti linguistici tra le varie versioni
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
-\begin_inset CommandInset citation
-LatexCommand cite
-key "PublicDiplomacy"
-
-\end_inset
-
-
+Kappeler D., “Texts in Diplomacy”, in Kurbalija J., Slavik H., 
+\shape italic
+Language and diplomacy
+\shape default
+, DiploProjects, Mediterranean Academy of Diplomatic Studies, Malta, 2001,
+ pp.
+ 107-109.
+ 
 \end_layout
 
 \end_inset
 
-
+.
 \end_layout
 
 \end_body
