@@ -45,19 +45,6 @@
 \renewcommand{\headrulewidth}{0.4pt}
 \setlength{\headheight}{14pt}
 
-\jurabibsetup{%
-titleformat=italic,% Titles in italic\\
-  titleformat=commasep,% A comma between athors and title
-  titleformat=all,% Always show a title (or a short title)
-  commabeforerest,% A comma after title\\ 
-  ibidem=strict,%
-  citefull=first,% The first citing in full form
-  oxford,% The oxford style
-  super,% Footnotes
-  dotafter=true,%
-  see,% An extra optional argument as a prenote
-  idem
-}
 
 %\let\cite\footcite
 %\let\bibliography\footbibliography
@@ -109,8 +96,8 @@ titleformat=italic,% Titles in italic\\
 \use_package stackrel 1
 \use_package stmaryrd 1
 \use_package undertilde 1
-\cite_engine jurabib
-\cite_engine_type authoryear
+\cite_engine basic
+\cite_engine_type default
 \biblio_style plain
 \use_bibtopic false
 \use_indices false
@@ -528,7 +515,7 @@ filename "introduzione.lyx"
 \end_layout
 
 \begin_layout Chapter
-Il linguaggio diplomatico
+Il Linguaggio Diplomatico
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:primo-capitolo"
@@ -549,7 +536,7 @@ filename "capitolo-1/capitolo-1.lyx"
 \end_layout
 
 \begin_layout Chapter
-Analisi discorsi diplomatici
+Analisi Discorsi Diplomatici
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:secondo-capitolo"
@@ -608,31 +595,28 @@ filename "conclusioni.lyx"
 \end_inset
 
 
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "bibliografia"
-options "jox"
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-addcontentsline{toc}{chapter}{Bibliografia}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
 \start_of_appendix
+Discorsi Integrali
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "appendice-a/appendice-a.lyx"
+
+\end_inset
+
+
 \begin_inset Newpage cleardoublepage
 \end_inset
 
