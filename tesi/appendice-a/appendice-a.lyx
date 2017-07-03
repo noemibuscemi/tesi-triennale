@@ -1,7 +1,9 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \options openright
 \use_default_options false
@@ -11,16 +13,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding T1
-\font_roman default
-\font_sans default
-\font_typewriter default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -31,15 +33,24 @@
 \use_hyperref false
 \papersize a4paper
 \use_geometry false
-\use_amsmath 2
-\use_esint 1
-\use_mhchem 0
-\use_mathdots 0
+\use_package amsmath 2
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Indice
 \shortcut idx
@@ -62,8 +73,222 @@
 
 \begin_body
 
-\begin_layout Standard
+\begin_layout Section
+Discorso del 17 gennaio 2017
+\end_layout
 
+\begin_layout Subsection
+The government’s negotiating objectives for exiting the EU: PM speech
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+https://www.gov.uk/government/speeches/the-governments-negotiating-objectives-for-
+exiting-the-eu-pm-speech
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+From: Prime Minister’s Office, 10 Downing Street, Department for Exiting
+ the European Union, and The Rt Hon Theresa May MP.
+\end_layout
+
+\begin_layout Standard
+Part of: Article 50 and negotiations with the EU, Immigration and borders,
+ Employment, European single market, UK economic growth, Brexit, and Counter-ter
+rorism
+\end_layout
+
+\begin_layout Standard
+Published: 17 January 2017
+\end_layout
+
+\begin_layout Subsubsection
+Text of the speech
+\end_layout
+
+\begin_layout Standard
+A little over 6 months ago, the British people voted for change.
+ They voted to shape a brighter future for our country.
+ They voted to leave the European Union and embrace the world.
+ And they did so with their eyes open: accepting that the road ahead will
+ be uncertain at times, but believing that it leads towards a brighter future
+ for their children – and their grandchildren too.
+ And it is the job of this government to deliver it.
+ That means more than negotiating our new relationship with the EU.
+ It means taking the opportunity of this great moment of national change
+ to step back and ask ourselves what kind of country we want to be.
+ My answer is clear.
+ I want this United Kingdom to emerge from this period of change stronger,
+ fairer, more united and more outward-looking than ever before.
+ I want us to be a secure, prosperous, tolerant country – a magnet for internati
+onal talent and a home to the pioneers and innovators who will shape the
+ world ahead.
+ I want us to be a truly Global Britain – the best friend and neighbour
+ to our European partners, but a country that reaches beyond the borders
+ of Europe too.
+ A country that goes out into the world to build relationships with old
+ friends and new allies alike.
+ I want Britain to be what we have the potential, talent and ambition to
+ be.
+ A great, global trading nation that is respected around the world and strong,
+ confident and united at home.
+ 
+\end_layout
+
+\begin_layout Paragraph
+A Plan for Britain
+\end_layout
+
+\begin_layout Standard
+That is why this government has a Plan for Britain.
+ One that gets us the right deal abroad but also ensures we get a better
+ deal for ordinary working people at home.
+ It’s why that plan sets out how we will use this moment of change to build
+ a stronger economy and a fairer society by embracing genuine economic and
+ social reform.
+ Why our new Modern Industrial Strategy is being developed, to ensure every
+ nation and area of the United Kingdom can make the most of the opportunities
+ ahead.
+ Why we will go further to reform our schools to ensure every child has
+ the knowledge and the skills they need to thrive in post-Brexit Britain.
+ Why as we continue to bring the deficit down, we will take a balanced approach
+ by investing in our economic infrastructure – because it can transform
+ the growth potential of our economy and improve the quality of people’s
+ lives across the whole country.
+ It’s why we will put the preservation of our precious Union at the heart
+ of everything we do.
+ Because it is only by coming together as one great union of nations and
+ people that we can make the most of the opportunities ahead.
+ The result of the referendum was not a decision to turn inward and retreat
+ from the world.
+ Because Britain’s history and culture is profoundly internationalist.
+ We are a European country – and proud of our shared European heritage –
+ but we are also a country that has always looked beyond Europe to the wider
+ world.
+ That is why we are one of the most racially diverse countries in Europe,
+ one of the most multicultural members of the European Union, and why –
+ whether we are talking about India, Pakistan, Bangladesh, America, Australia,
+ Canada, New Zealand, countries in Africa or those that are closer to home
+ in Europe – so many of us have close friends and relatives from across
+ the world.
+ Instinctively, we want to travel to, study in, trade with countries not
+ just in Europe but beyond the borders of our continent.
+ Even now as we prepare to leave the EU, we are planning for the next biennial
+ Commonwealth Heads of Government meeting in 2018 – a reminder of our unique
+ and proud global relationships.
+\end_layout
+
+\begin_layout Paragraph
+A message from Britain to the rest of Europe
+\end_layout
+
+\begin_layout Standard
+And it is important to recognise this fact.
+ June the 23rd was not the moment Britain chose to step back from the world.
+ It was the moment we chose to build a truly Global Britain.
+ I know that this – and the other reasons Britain took such a decision –
+ is not always well understood among our friends and allies in Europe.
+ And I know many fear that this might herald the beginning of a greater
+ unravelling of the EU.
+ But let me be clear: I do not want that to happen.
+ It would not be in the best interests of Britain.
+ It remains overwhelmingly and compellingly in Britain’s national interest
+ that the EU should succeed.
+ And that is why I hope in the months and years ahead we will all reflect
+ on the lessons of Britain’s decision to leave.
+ So let me take this opportunity to set out the reasons for our decision
+ and to address the people of Europe directly.
+ It’s not simply because our history and culture is profoundly internationalist,
+ important though that is.
+ Many in Britain have always felt that the United Kingdom’s place in the
+ European Union came at the expense of our global ties, and of a bolder
+ embrace of free trade with the wider world.
+ There are other important reasons too.
+ Our political traditions are different.
+ Unlike other European countries, we have no written constitution, but the
+ principle of Parliamentary Sovereignty is the basis of our unwritten constituti
+onal settlement.
+ We have only a recent history of devolved governance – though it has rapidly
+ embedded itself – and we have little history of coalition government.
+ The public expect to be able to hold their governments to account very
+ directly, and as a result supranational institutions as strong as those
+ created by the European Union sit very uneasily in relation to our political
+ history and way of life.
+ And, while I know Britain might at times have been seen as an awkward member
+ state, the European Union has struggled to deal with the diversity of its
+ member countries and their interests.
+ It bends towards uniformity, not flexibility.
+ David Cameron’s negotiation was a valiant final attempt to make it work
+ for Britain – and I want to thank all those elsewhere in Europe who helped
+ him reach an agreement – but the blunt truth, as we know, is that there
+ was not enough flexibility on many important matters for a majority of
+ British voters.
+ Now I do not believe that these things apply uniquely to Britain.
+ Britain is not the only member state where there is a strong attachment
+ to accountable and democratic government, such a strong internationalist
+ mindset, or a belief that diversity within Europe should be celebrated.
+ And so I believe there is a lesson in Brexit not just for Britain but,
+ if it wants to succeed, for the EU itself.
+ Because our continent’s great strength has always been its diversity.
+ And there are 2 ways of dealing with different interests.
+ You can respond by trying to hold things together by force, tightening
+ a vice-like grip that ends up crushing into tiny pieces the very things
+ you want to protect.
+ Or you can respect difference, cherish it even, and reform the EU so that
+ it deals better with the wonderful diversity of its member states.
+ So to our friends across Europe, let me say this.
+ Our vote to leave the European Union was no rejection of the values we
+ share.
+ The decision to leave the EU represents no desire to become more distant
+ to you, our friends and neighbours.
+ It was no attempt to do harm to the EU itself or to any of its remaining
+ member states.
+ We do not want to turn the clock back to the days when Europe was less
+ peaceful, less secure and less able to trade freely.
+ It was a vote to restore, as we see it, our parliamentary democracy, national
+ self-determination, and to become even more global and internationalist
+ in action and in spirit.
+ We will continue to be reliable partners, willing allies and close friends.
+ We want to buy your goods and services, sell you ours, trade with you as
+ freely as possible, and work with one another to make sure we are all safer,
+ more secure and more prosperous through continued friendship.
+ You will still be welcome in this country as we hope our citizens will
+ be welcome in yours.
+ At a time when together we face a serious threat from our enemies, Britain’s
+ unique intelligence capabilities will continue to help to keep people in
+ Europe safe from terrorism.
+ And at a time when there is growing concern about European security, Britain’s
+ servicemen and women, based in European countries including Estonia, Poland
+ and Romania, will continue to do their duty.
+ We are leaving the European Union, but we are not leaving Europe.
+ And that is why we seek a new and equal partnership – between an independent,
+ self-governing, Global Britain and our friends and allies in the EU.
+ Not partial membership of the European Union, associate membership of the
+ European Union, or anything that leaves us half-in, half-out.
+ We do not seek to adopt a model already enjoyed by other countries.
+ We do not seek to hold on to bits of membership as we leave.
+ No, the United Kingdom is leaving the European Union.
+ And my job is to get the right deal for Britain as we do.
+\end_layout
+
+\begin_layout Paragraph
+Objectives and ambitions
+\end_layout
+
+\begin_layout Standard
+So today I want to outline our objectives for the negotiation ahead.
+ Twelve objectives that amount to one big goal: a new, positive and constructive
+ partnership between Britain and the European Union.
+ And as we negotiate that partnership, we will be driven by some simple
+ principles: we will provide as much certainty and clarity as we can at
+ every stage.
+ And we will take this opportunity to make Britain stronger, to make Britain
+ fairer, and to build a more Global Britain too.
 \end_layout
 
 \end_body
