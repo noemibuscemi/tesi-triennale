@@ -1,7 +1,9 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \options openright
 \use_default_options false
@@ -11,16 +13,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding T1
-\font_roman default
-\font_sans default
-\font_typewriter default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -31,15 +33,24 @@
 \use_hyperref false
 \papersize a4paper
 \use_geometry false
-\use_amsmath 2
-\use_esint 1
-\use_mhchem 0
-\use_mathdots 0
+\use_package amsmath 2
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Indice
 \shortcut idx
@@ -64,7 +75,7 @@
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Si mostrano le prospettive future di ricerca nell’area dove si è svolto
@@ -77,6 +88,66 @@ Si mostrano le prospettive future di ricerca nell’area dove si è svolto
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Nell’ambito delle relazioni internazionali, il linguaggio diplomatico svolge
+ un ruolo essenziale; come si è evidenziato, infatti, il diplomatico agisce
+ essenzialmente su due fronti, in quanto se da un lato cerca di persuadere
+ chi ascolta o legge i propri discorsi, dall’altro deve attuare in modo
+ tale che le proprie affermazioni non risultino impositive per il destinatario
+ e in modo da evitare possibili scontri politici.
+ A rendere ulteriormente complicato il lavoro del diplomatico, soprattutto
+ dal punto di vista linguistico, è la presenza oggi di numerosi attori nel
+ contesto internazionale, ognuno dei quali comunica principalmente nella
+ propria lingua madre, laddove l’altro partecipante sia in grado di comprenderla
+, o in una lingua straniera, prevalentemente inglese; laddove però questa
+ lingua è estranea a entrambi i parlanti, possono verificarsi problemi di
+ comprensione reciproca con risvolti non auspicabili.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Proprio per questo motivo, si è visto, nella diplomazia multilaterale o
+ per negoziazioni a un livello politico molto alto in cui è prevista la
+ partecipazione di diversi attori non accomunati dal medesimo codice linguistico
+, fondamentale diviene l’intervento dell’interprete, o del traduttore nel
+ caso di testi scritti.
+ Anche in questo caso, però, il problema delle possibili incomprensioni
+ non è mai completamente risolto, in quanto sebbene l’interprete/traduttore
+ possa avere un’alta padronanza di entrambe le lingue, la sua conoscenza
+ della materia trattata, che in ambito diplomatico può spaziare su svariati
+ soggetti, può non essere altrettanto valida.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Nell’analisi dei discorsi tenuti da Theresa May rispettivamente il 17 gennaio
+ 2017, rispetto alla questione Brexit e al programma che il suo governo
+ si è prefissato, e il 9 giugno 2017, in seguito alle elezioni dell’8 giugno
+ 2017, si è cercato di evidenziare una serie di elementi linguistici ritenuti
+ particolarmente significativi ai fini per cui tali discorsi sono stati
+ pronunciati.
+ In entrambi i casi, infatti, l’attenzione del Primo Ministro è rivolta
+ al futuro, e dunque l’obiettivo principale è sottolineare la capacità del
+ governo di mettere in atto una serie di azioni a favore e a beneficio della
+ Gran Bretagna.
+ 
+\begin_inset Newline newline
+\end_inset
+
+È stato interessante notare, in particolare, come Theresa May abbia cercato
+ di realizzare l’obiettivo di persuasione del pubblico attraverso l’uso
+ dei pronomi personali, e soprattutto i pronomi di prima persona, singolare
+ e plurale, che contribuiscono a ridurre la distanza interpersonale tra
+ chi parla e chi ascolta.
+ 
+\begin_inset Newline newline
+\end_inset
+
+L’analisi di transitività, condotta sulla base della linguistica sistemico-funzi
+onale di Halliday, ha inoltre rilevato come in entrambi i discorsi sia preponder
+ante il processo materiale volto a porre l’attenzione sulle azioni.
 \end_layout
 
 \end_body
