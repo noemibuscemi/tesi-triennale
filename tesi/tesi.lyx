@@ -38,9 +38,8 @@
 
 % header "carini" per la tesi
 \fancyhead{}
-\fancyhead[LE]{\slshape \nouppercase \leftmark}
+\fancyhead[LO]{}
 \fancyhead[RO]{\slshape \nouppercase \rightmark}
-\fancyfoot[EC]{\begin{flushleft}\thepage\end{flushleft}}
 \fancyfoot[OC]{\begin{flushright}\thepage\end{flushright}}
 \renewcommand{\headrulewidth}{0.4pt}
 \setlength{\headheight}{14pt}
@@ -50,7 +49,6 @@
 %\let\bibliography\footbibliography
 %\let\bibliographystyle\footbibliographystyle
 \end_preamble
-\options openright
 \use_default_options false
 \maintain_unincluded_children false
 \language italian
@@ -123,7 +121,7 @@
 \paragraph_indentation default
 \quotes_language french
 \papercolumns 1
-\papersides 2
+\papersides 1
 \paperpagestyle default
 \tracking_changes false
 \output_changes false
@@ -331,7 +329,7 @@ restoregeometry
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage cleardoublepage
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -354,7 +352,7 @@ filename "dedica.lyx"
 
 \emph default
 
-\begin_inset Newpage cleardoublepage
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -388,7 +386,7 @@ filename "ringraziamenti.lyx"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage cleardoublepage
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -439,7 +437,7 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage cleardoublepage
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -662,7 +660,7 @@ filename "appendice-a/appendice-a.lyx"
 \end_inset
 
 
-\begin_inset Newpage cleardoublepage
+\begin_inset Newpage clearpage
 \end_inset
 
 
